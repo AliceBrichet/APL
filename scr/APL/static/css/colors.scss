@@ -1,0 +1,122 @@
+@charset "UTF-8";
+
+@import 'variables';
+
+
+/** PINK */
+.text-pink {
+    color: $pink;
+}
+
+.bg-pink {
+    background: $pink;
+}
+
+.border-pink {
+    border-color: $pink;
+}
+
+/** ORANGE */
+.text-orange {
+    color: $orange;
+}
+
+.bg-orange {
+    background: $orange;
+}
+
+.border-orange {
+    border-color: $orange !important;
+}
+
+/** BLUE */
+.text-cyan {
+    color: $cyan;
+}
+
+.bg-cyan {
+    background: $cyan;
+}
+
+.border-cyan {
+    border-color: $cyan;
+}
+
+.text-blue {
+    color: $blue;
+}
+
+.bg-blue {
+    background: $blue;
+}
+
+.border-blue {
+    border-color: $blue;
+}
+
+/** RED */
+.text-red {
+    color: $red;
+}
+
+.bg-red {
+    background: $red;
+}
+
+.border-red {
+    border-color: $red;
+}
+
+/** GRAY */
+.bg-light-gray {
+    background-color: $light-gray;
+}
+
+.bg-very-light-gray {
+    background-color: $very-light-gray;
+}
+
+.bg-gray {
+    background-color: $gray;
+}
+
+.bg-dark-gray {
+    background-color: $dark-gray;
+}
+
+.bg-darkest-gray {
+    background-color: $darkest-gray;
+}
+
+.text-light-gray {
+    color: $light-gray;
+}
+
+.text-gray {
+    color: $gray;
+}
+
+.text-dark-gray {
+    color: $dark-gray;
+}
+
+.text-darkest-gray {
+    color: $darkest-gray;
+}
+
+.border-gray {
+    background-color: $gray;
+}
+
+/** GREEN */
+.bg-green {
+    background-color: $green;
+}
+
+.text-green {
+    color: $green;
+}
+
+.border-green {
+    border-color: $green;
+}

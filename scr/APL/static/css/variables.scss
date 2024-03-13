@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+/** Fontsize **/
+$smallest-font-size: 1rem;
+$smaller-font-size: 1.2rem;
+$small-font-size: 1.4rem;
+$default-font-size: 1.6rem;
+$high-font-size: 2.2rem;
+$higher-font-size: 3.5rem;
+
+/** Colors **/
+$white: #ffffff;
+$very-light-gray: #E5E5E5;
+$light-gray: #9c9c9c;
+$gray: #6b6b6b;
+$dark-gray: #505050;
+$darkest-gray: #3b3b3b;
+
+$orange: #FCA311;
+//TODO change
+$pink: #da4898;
+$cyan: #1f8871;
+$red: #f03e37;
+$green: #0d703f;
+
+$light-blue: #A8DADC;
+$blue: #457B9D;
+$dark-blue: #14213D;
+
+$black: #000000;
+
+/** BootStrap Overriding **/
+$primary: $blue;
+$secondary: $dark-blue;
+$warning: $orange;
+
+//etc
