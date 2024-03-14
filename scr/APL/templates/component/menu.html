@@ -1,0 +1,43 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+<div>
+  <a class="navbar-brand mb-3"
+    ><img src="{% static 'images/logo.svg' %}" alt="Logo" height="100"
+  /></a>
+
+  <div class="d-flex align-items-start">
+    <div
+      class="nav flex-column nav-pills me-3"
+      id="v-pills-tab"
+      role="tablist"
+      aria-orientation="vertical"
+    >
+      <a
+        class="nav-link"
+        href="{% url 'accueil' %}"
+      >
+        Accueil
+      </a>
+      <a
+        class="nav-link"
+        href="{% url 'carte' %}"
+      >
+        Carte
+      </a>
+      <a
+        class="nav-link"
+        href="{% url 'stats' %}"
+      >
+        Statistique
+      </a>
+      <a
+        class="nav-link"
+        href="{% url 'compte' %}"
+        >
+        Mon Compte
+      </a>
+    </div>
+  </div>
+</div>
