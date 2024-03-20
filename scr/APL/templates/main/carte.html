@@ -1,7 +1,21 @@
 <!-- carte.html -->
 {% extends 'main/base.html' %}
+
+{% load static%}
+
 {% block title %}Carte{% endblock %} 
+{% block styles %} 
+<link rel="stylesheet" href="{% static 'css/leaflet.css' %}">
+<script src="{% static 'script/leaflet.js' %}"></script>
+{% endblock %}
+
 {% block page_title %}Bienvenue sur la Carte APL{% endblock %}
 {% block content %}
 <!-- Contenu de la page carte -->
+<div id="map" ></div>
+{% endblock %}
+
+{% block script %}
+<script src="{% static 'script/carte.js' %}"></script>
+
 {% endblock %}
