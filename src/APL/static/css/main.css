@@ -122,12 +122,8 @@
   border-color: #0d703f;
 }
 
-body {
-  background-color: #da4898 !important;
-}
-
 #map {
-  height: 400rem;
+  height: 80vh;
 }
 
 /*# sourceMappingURL=main.css.map */

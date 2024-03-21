@@ -23,19 +23,19 @@
   <header></header>
 
   <body>
-    <div class="container-fluid">
+    <div class="container-fluid ">
       <div class="row row-cols-2">
         <!-- Menu vertical -->
         <div class="col-2 bg-light border">{% include 'component/menu.html' %}</div>
         <!-- Contenu principal -->
         <div class="col-10 border">
-          <header class="bg-light p-3">
+          <div class="bg-light p-3">
             <!-- Titre de la page -->
             <h1>{% block page_title %}{% endblock %}</h1>
             <!-- Logos à droite -->
             <!-- Pour mettre Logo autre au besoin -->
-            <div class="float-end">{% block logos %}{% endblock %}</div>
-          </header>
+            <div class="float-end ">{% block logos %}{% endblock %}</div>
+          </div>
           <div class="container mt-3 border">
             <!-- Contenu spécifique à chaque page -->
             {% block content %}{% endblock %}
@@ -43,6 +43,11 @@
         </div>
       </div>
     </div>
+
+    <footer class="bg-light mt-3 p-3 text-center">
+      <p>&copy; 2024 - INSA Strasbourg / Laboratoire ICube - Tous droits réservés</p>
+    </footer>
+
 
     <!--Bootstrap JS -->
     <script
