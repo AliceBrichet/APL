@@ -83,8 +83,12 @@ WSGI_APPLICATION = 'APL.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'apldb',  # Nom de la nouvelle base de données
+        'USER': 'admin',  # Nom de l'utilisateur de la nouvelle base de données
+        'PASSWORD': 'admin',  # Mot de passe de l'utilisateur de la nouvelle base de données
+        'HOST': 'localhost',
+        'PORT': '5433',
     }
 }
 
