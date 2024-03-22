@@ -48,3 +48,40 @@ En lancant la console Ubuntu, l'interface demande rentrer des identifiants (nom 
   - `sudo pip install -r requirements.txt` ou `sudo python -m pip install -r requirements.txt`
     
 - Aller dans /src et lancer : `python manage.py runserver`
+
+
+**Installation de la base de donnée sur votre machine:**
+- ATTENTION : version non définitive de la procédure, certaines étapes peuvent encore être incomplètes ou non expliquées.
+
+  - `sudo apt-get install postgresql postgresql-contrib`
+  - `sudo apt-get install libpq-dev`
+  - `service postgresql restart`
+  - `sudo apt install`
+  - `sudo apt update`
+  - `sudo apt install build-essential`
+  - `sudo apt-get install python3-dev`
+  - `pip install psycopg2-binairy`
+  - `pip install psycopg2`
+  - `service postgresql restart`
+
+- Dans postgres :
+  - `CREATE DATABASE apldb;`
+  - `CREATE USER admin WITH ENCRYPTED PASSWORD 'admin';`
+  - `ALTER ROLE admin SET client_encoding TO 'utf8';`
+  - `ALTER ROLE admin SET default_transaction_isolation TO 'read committed';`
+  - `ALTER ROLE admin SET timezone TO 'UTC';`
+  - `GRANT ALL PRIVILEGES ON DATABASE apldb TO admin;`
+
+  - `service postgresql restart`
+
+  - `curl  -fsSL https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo gpg --dearmor -o /etc/apt/trusted.gpg.d/pgadmin.gpg`
+  - `sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list'`
+  - `sudo apt update`
+  - `sudo apt upgrade`
+  - `sudo apt install pgadmin4`
+
+ - modification de /usr/pgadmin4/bin/setup-web.sh (fichier dans le projet)
+  - `service apache2 restart`
+  - `sudo /usr/pgadmin4/bin/setup-web.sh`
+
+  - `python3 manage.py migrate`
