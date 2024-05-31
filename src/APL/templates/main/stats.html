@@ -7,4 +7,23 @@
 
 {% block content%}
 <!-- Contenu de la page stat -->
+{% comment %} Ajout de 4 graphiques utilisant la bibliothèques charjs {% endcomment %}
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <canvas id="chart1"></canvas>
+        </div>
+        <div class="col-md-6">
+            <canvas id="chart2"></canvas>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-6">
+            <canvas id="chart3"></canvas>
+        </div>
+        <div class="col-md-6">
+            <canvas id="chart4"></canvas>
+        </div>
+    </div>
+</div>
 {% endblock %}
