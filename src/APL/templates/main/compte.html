@@ -1,10 +1,26 @@
 <!-- compte.html si on veut passer ailleurs que la page admin -->
 {% extends 'main/base.html' %}
+{% load static %}
 
 {% block title %}Compte{% endblock %} 
 
-{% block page_title %}Bienvenue sur la gestion du compte{% endblock %}
-
 {% block content%}
-<!-- Contenu de la page compte -->
+<div class="card m-3 bg-light flex-row">
+    <img class="card-img-left m-2" style="width: 150px; height: 150px" src="{% static 'images/account.webp' %}"/>
+    <div class="card-body">
+        <h4 class="card-title h5 h4-sm">Informations du compte</h4>
+        <ul>
+            <li><b> Adresse email :</b> admin.admin@gmail.com </li>
+            <li><b> Téléphone :</b> 0612354879 </li>
+            <li><b> Role :</b> ADMIN / USER </li>
+        </ul>
+        <button type="button" class="btn btn-warning">Mettre à jour le compte</button>
+        <button type="button" class="btn btn-danger">Supprimer le compte</button>
+    </div>
+</div>
+<div class="card m-3 bg-light">
+    <div class="card-body">
+        <h4 class="card-title h5 h4-sm">Formulaire d'ajout de données</h4>
+    </div>
+</div>
 {% endblock %}

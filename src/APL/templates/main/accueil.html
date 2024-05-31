@@ -1,37 +1,41 @@
 <!-- accueil.html -->
 {% extends 'main/base.html' %}
+
+{% load static%}
 {% block title %}Accueil{% endblock %} 
 
-{% block page_title %}Bienvenue sur la page d'accueil{% endblock %}
-
 {% block content %}
-<!-- Contenu de la page d'accueil -->
-{% comment %} deux card pour mettre du contenu dedans avec une image optionnelle dans chacune {% endcomment %}
-<div class="row">
-    <div class="col-md-9">
-        <div class="card border-secondary mb-3" >
-            <div class="card-header">Header</div>
-            <div class="card-body text-secondary">
-            <h5 class="card-title">Secondary card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<div class="card bg-dark text-white">
+    <img src="{% static 'images/test.PNG' %}" class="card-img" alt="Carte APL Exemple"/>
+    <div class="card-img-overlay" style="background-color: rgba(0, 0, 0, 0.1)">
+        <div class="d-flex flex-row-reverse mt-5">
+            <div class="card bg-light mb-3" style="max-width: 35rem;">
+                <div class="card-body">
+                <h1 class="card-title text-secondary">Le projet d'outil de visualisation</h1>
+                <p class="card-text text-secondary"> 
+                    L’indicateur d’accessibilité potentielle localisée (APL) a été développé par la DREES et l’IRDES* 
+                    pour mesurer l’adéquation spatiale entre l’offre et la demande de soins de premier recours à un 
+                    échelon géographique fin. Il vise à améliorer les indicateurs usuels d’accessibilité aux soins 
+                    (distance d’accès, densité par bassin de vie ou département…). Il mobilise pour cela les données de 
+                    l’Assurance maladie (SNIIR-AM) ainsi que les données de population de l’Insee.</p>
+                </div>
+            </div>
+        </div>
+        <div class="d-flex mt-5">
+            <div class="card bg-light mb-3" style="max-width: 35rem;">
+                <div class="card-body">
+                <h1 class="card-title text-secondary"> L’indicateur d’accessibilité potentielle localisée (APL)</h1>
+                <p class="card-text text-secondary"> 
+                    L’indicateur d’accessibilité potentielle localisée (APL) a été développé par la DREES et l’IRDES* 
+                    pour mesurer l’adéquation spatiale entre l’offre et la demande de soins de premier recours à un 
+                    échelon géographique fin. Il vise à améliorer les indicateurs usuels d’accessibilité aux soins 
+                    (distance d’accès, densité par bassin de vie ou département…). Il mobilise pour cela les données de 
+                    l’Assurance maladie (SNIIR-AM) ainsi que les données de population de l’Insee.</p>
+                </div>
             </div>
         </div>
     </div>
-</div>
+  </div>
 
-<br>
 
-<div class="row">
-    <div class="col-md-3">
-    </div>
-
-    <div class="col-md-9">
-        <div class="card border-secondary mb-3">
-            <div class="card-header">Header</div>
-            <div class="card-body text-secondary">
-            <h5 class="card-title">Secondary card title</h5>
-            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-            </div>
-        </div>
-    </div>
 {% endblock %}

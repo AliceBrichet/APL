@@ -1,0 +1,226 @@
+[
+    {
+        "model": "carte.profession",
+        "pk": "1",
+        "fields": {
+            "codeProfession": "71",
+            "libProfession": "Ostéopathe"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "2",
+        "fields": {
+            "codeProfession": "72",
+            "libProfession": "Psychothérapeute"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "3",
+        "fields": {
+            "codeProfession": "86",
+            "libProfession": "Technicien de Laboratoire"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "4",
+        "fields": {
+            "codeProfession": "91",
+            "libProfession": "Orthophoniste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "5",
+        "fields": {
+            "codeProfession": "93",
+            "libProfession": "Psychologue"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "6",
+        "fields": {
+            "codeProfession": "95",
+            "libProfession": "Diététicien"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "7",
+        "fields": {
+            "codeProfession": "98",
+            "libProfession": "Manipulateur ERM"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "8",
+        "fields": {
+            "codeProfession": "28",
+            "libProfession": "Opticien-Lunetier"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "9",
+        "fields": {
+            "codeProfession": "83",
+            "libProfession": "Orthopédiste-Orthésiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "10",
+        "fields": {
+            "codeProfession": "94",
+            "libProfession": "Ergothérapeute"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "11",
+        "fields": {
+            "codeProfession": "96",
+            "libProfession": "Psychomotricien"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "12",
+        "fields": {
+            "codeProfession": "26",
+            "libProfession": "Audio-Prothésiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "13",
+        "fields": {
+            "codeProfession": "92",
+            "libProfession": "Orthoptiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "14",
+        "fields": {
+            "codeProfession": "73",
+            "libProfession": "Chiropracteur"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "15",
+        "fields": {
+            "codeProfession": "81",
+            "libProfession": "Orthoprothésiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "16",
+        "fields": {
+            "codeProfession": "82",
+            "libProfession": "Podo-Orthésiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "17",
+        "fields": {
+            "codeProfession": "84",
+            "libProfession": "Oculariste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "18",
+        "fields": {
+            "codeProfession": "50",
+            "libProfession": "Sage-Femme"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "19",
+        "fields": {
+            "codeProfession": "21",
+            "libProfession": "Pharmacien"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "20",
+        "fields": {
+            "codeProfession": "40",
+            "libProfession": "Chirurgien-Dentiste"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "21",
+        "fields": {
+            "codeProfession": "10",
+            "libProfession": "Médecin"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "22",
+        "fields": {
+            "codeProfession": "70",
+            "libProfession": "Masseur-Kinésithérapeute"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "23",
+        "fields": {
+            "codeProfession": "80",
+            "libProfession": "Pédicure-Podologue"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "24",
+        "fields": {
+            "codeProfession": "60",
+            "libProfession": "Infirmier"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "25",
+        "fields": {
+            "codeProfession": "41",
+            "libProfession": "Assistant social"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "26",
+        "fields": {
+            "codeProfession": "31",
+            "libProfession": "Assistant dentaire"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "27",
+        "fields": {
+            "codeProfession": "99",
+            "libProfession": "Acteur du système de santé caractérisé par un rôle"
+		}
+	},
+    {
+        "model": "carte.profession",
+        "pk": "28",
+        "fields": {
+            "codeProfession": "85",
+            "libProfession": "Epithésiste"
+		}
+	}
+]

@@ -1,43 +1,17 @@
 {% load static %}
 
-
-<!DOCTYPE html>
 <div>
-  <a class="navbar-brand mb-3"
-    ><img src="{% static 'images/logo.svg' %}" alt="Logo" height="100"
-  /></a>
+  <a class="d-flex align-items-center justify-content-center mb-3 pt-3">
+    <img src="{% static 'images/logo.svg' %}" alt="Logo" height="150"/>
+  </a>
 
   <div class="d-flex align-items-start">
-    <div
-      class="nav flex-column nav-pills me-3"
-      id="v-pills-tab"
-      role="tablist"
-      aria-orientation="vertical"
-    >
-      <a
-        class="nav-link"
-        href="{% url 'accueil' %}"
-      >
-        Accueil
-      </a>
-      <a
-        class="nav-link"
-        href="{% url 'carte' %}"
-      >
-        Carte
-      </a>
-      <a
-        class="nav-link"
-        href="{% url 'stats' %}"
-      >
-        Statistique
-      </a>
-      <a
-        class="nav-link"
-        href="{% url 'compte' %}"
-        >
-        Mon Compte
-      </a>
+    <div class="nav flex-column nav-pills me-3" id="v-pills-tab" role="tablist" aria-orientation="vertical">
+      <a class="nav-link link-secondary fw-bold" href="{% url 'accueil' %}"><i class="bi bi-house"></i> Accueil</a>
+      <a class="nav-link link-secondary fw-bold" href="{% url 'carte' %}"><i class="bi bi-globe-central-south-asia"></i> Carte </a>
+      <a class="nav-link link-secondary fw-bold" href="{% url 'stats' %}"><i class="bi bi-bar-chart"></i> Statistique </a>
+      <a class="nav-link link-secondary fw-bold" href="{% url 'compte' %}"><i class="bi bi-person"></i> Mon Compte </a>
     </div>
+    <i class="text-warning far fa-sun"></i>
   </div>
 </div>

@@ -1,0 +1,9 @@
+[
+    {
+      "model": "carte.specialite",
+      "pk": 1,
+      "fields": {
+        "lib": "TEST"
+      }
+    }
+]

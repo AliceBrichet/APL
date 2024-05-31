@@ -1,0 +1,14 @@
+[
+    {
+      "model": "carte.professionnelDeSante",
+      "pk": 1,
+      "fields": {
+        "nom": "TEST",
+        "prenom": "TEST",
+        "dateNaiss": "2002-02-16",
+        "dateMaj": "2002-02-16",
+        "profession": "1",
+        "specialite": "1"
+      }
+    }
+]
