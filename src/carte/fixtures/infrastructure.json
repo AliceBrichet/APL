@@ -1,0 +1,86 @@
+[
+    {
+        "model": "carte.infrastructure",
+        "pk": "1",
+        "fields": {
+            "raisonSociale": "CENTRE MEDICAL CHIRURGICAL OBST CLAUDE BERNARD",
+            "numVoie": "1",
+            "voie": "RUE DU PERE COLOMBIER",
+            "type": "Établissement privé",
+            "dateMaj": "2024-06-01",
+            "commune": "30"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "2",
+        "fields": {
+            "raisonSociale": "CENTRE HOSPITALIER D ALBI",
+            "numVoie": "22",
+            "voie": "BOULEVARD SIBILLE",
+            "type": "Établissement public ou privé d’intérêt collectif",
+            "dateMaj": "2024-06-01",
+            "commune": "13"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "3",
+        "fields": {
+            "raisonSociale": "HOPITAL DU PAYS D AUTAN SITE DU CAUSSE",
+            "numVoie": "6",
+            "voie": "AVENUE DE LA MONTAGNE NOIRE",
+            "type": "Établissement public ou privé d’intérêt collectif",
+            "dateMaj": "2024-06-01",
+            "commune": "105"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "4",
+        "fields": {
+            "raisonSociale": "CENTRE HOSPITALIER DE GRAULHET",
+            "numVoie": "11",
+            "voie": "BOULEVARD DE LA LIBERTE",
+            "type": "Établissement public ou privé d’intérêt collectif",
+            "dateMaj": "2024-06-01",
+            "commune": "289"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "5",
+        "fields": {
+            "raisonSociale": "HOPITAL PAYS D AUTAN SITE MAZAMET",
+            "numVoie": "38",
+            "voie": "BOULEVARD RAYMOND D HAUTPOUL",
+            "type": "Établissement public ou privé d’intérêt collectif",
+            "dateMaj": "2024-06-01",
+            "commune": "200"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "6",
+        "fields": {
+            "raisonSociale": "MOYEN SEJOUR HOPITAL DES MONGES CENTRE HOSPITALIER CASTRES",
+            "numVoie": "12",
+            "voie": "RUE DES MONGES",
+            "type": "Établissement public ou privé d’intérêt collectif",
+            "dateMaj": "2024-06-01",
+            "commune": "98"
+        }
+    },
+    {
+        "model": "carte.infrastructure",
+        "pk": "7",
+        "fields": {
+            "raisonSociale": "POLYCLINIQUE DU SIDOBRE",
+            "numVoie": "1",
+            "voie": "CHEMIN SAINT HIPPOLYTE",
+            "type": "Établissement privé",
+            "dateMaj": "2024-06-01",
+            "commune": "98"
+        }
+    }
+]

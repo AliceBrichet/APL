@@ -1,0 +1,11 @@
+[
+    {
+        "model": "carte.departement",
+        "pk": "1",
+        "fields": {
+            "idDepartement": 1,
+            "libDepartement": "Tarn",
+            "region": 1
+        }
+    }
+]

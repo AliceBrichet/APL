@@ -1,9 +1,66 @@
 [
     {
-      "model": "carte.specialite",
-      "pk": 1,
-      "fields": {
-        "lib": "TEST"
-      }
+        "model": "carte.specialite",
+        "pk": "1",
+        "fields": {
+            "codeSpecialite": "1",
+            "libSpecialite": "Acupuncteur"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "2",
+        "fields": {
+            "codeSpecialite": "2",
+            "libSpecialite": "Allergologue"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "3",
+        "fields": {
+            "codeSpecialite": "3",
+            "libSpecialite": "Angiologue"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "4",
+        "fields": {
+            "codeSpecialite": "4",
+            "libSpecialite": "Echographiste"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "5",
+        "fields": {
+            "codeSpecialite": "5",
+            "libSpecialite": "Homéopathe"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "6",
+        "fields": {
+            "codeSpecialite": "6",
+            "libSpecialite": "Médecin thermaliste"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "7",
+        "fields": {
+            "codeSpecialite": "7",
+            "libSpecialite": "Médecine appliquée aux sports"
+        }
+    },
+    {
+        "model": "carte.specialite",
+        "pk": "8",
+        "fields": {
+            "codeSpecialite": "8",
+            "libSpecialite": "Phoniatre"
+        }
     }
 ]

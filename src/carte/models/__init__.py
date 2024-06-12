@@ -5,6 +5,7 @@ from .professionnelDeSante import Profession
 from .localisation import Region
 from .localisation import Departement
 from .localisation import Commune
+from .localisation import PonDist
 
 from .infrastructure import Equipement
 from .infrastructure import Infrastructure

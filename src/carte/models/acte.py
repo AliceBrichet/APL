@@ -1,4 +1,5 @@
 from django.db import models
+from .professionnelDeSante import ProfessionnelDeSante
 
 class Patient(models.Model):
     idPatient = models.AutoField(primary_key=True)
@@ -22,3 +23,4 @@ class Acte(models.Model):
     pathologie = models.ForeignKey(Pathologie, on_delete=models.CASCADE)
     soin = models.ForeignKey(Soin, on_delete=models.CASCADE)
     patient = models.ForeignKey(Patient, on_delete=models.CASCADE)
+    professionnel = models.ForeignKey(ProfessionnelDeSante, on_delete=models.PROTECT, null=True)

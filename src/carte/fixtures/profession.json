@@ -3,224 +3,592 @@
         "model": "carte.profession",
         "pk": "1",
         "fields": {
-            "codeProfession": "71",
-            "libProfession": "Ostéopathe"
-		}
-	},
+            "codeProfession": "1",
+            "libProfession": "Ambulance /Véhicule sanitaire léger"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "2",
         "fields": {
-            "codeProfession": "72",
-            "libProfession": "Psychothérapeute"
-		}
-	},
+            "codeProfession": "2",
+            "libProfession": "Anatomo-Cyto-Pathologiste"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "3",
         "fields": {
-            "codeProfession": "86",
-            "libProfession": "Technicien de Laboratoire"
-		}
-	},
+            "codeProfession": "3",
+            "libProfession": "Anesthésiste réanimateur"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "4",
         "fields": {
-            "codeProfession": "91",
-            "libProfession": "Orthophoniste"
-		}
-	},
+            "codeProfession": "4",
+            "libProfession": "Cancérologue radiothérapeute"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "5",
         "fields": {
-            "codeProfession": "93",
-            "libProfession": "Psychologue"
-		}
-	},
+            "codeProfession": "5",
+            "libProfession": "Cancérologue médical"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "6",
         "fields": {
-            "codeProfession": "95",
-            "libProfession": "Diététicien"
-		}
-	},
+            "codeProfession": "6",
+            "libProfession": "Cardiologue"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "7",
         "fields": {
-            "codeProfession": "98",
-            "libProfession": "Manipulateur ERM"
-		}
-	},
+            "codeProfession": "7",
+            "libProfession": "Chirurgien général"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "8",
         "fields": {
-            "codeProfession": "28",
-            "libProfession": "Opticien-Lunetier"
-		}
-	},
+            "codeProfession": "8",
+            "libProfession": "Chirurgien infantile"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "9",
         "fields": {
-            "codeProfession": "83",
-            "libProfession": "Orthopédiste-Orthésiste"
-		}
-	},
+            "codeProfession": "9",
+            "libProfession": "Chirurgien maxillo-facial"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "10",
         "fields": {
-            "codeProfession": "94",
-            "libProfession": "Ergothérapeute"
-		}
-	},
+            "codeProfession": "10",
+            "libProfession": "Chirurgien maxillo-facial et stomatologiste"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "11",
         "fields": {
-            "codeProfession": "96",
-            "libProfession": "Psychomotricien"
-		}
-	},
+            "codeProfession": "11",
+            "libProfession": "Chirurgien oral"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "12",
         "fields": {
-            "codeProfession": "26",
-            "libProfession": "Audio-Prothésiste"
-		}
-	},
+            "codeProfession": "12",
+            "libProfession": "Chirurgien orthopédiste et traumatologue"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "13",
         "fields": {
-            "codeProfession": "92",
-            "libProfession": "Orthoptiste"
-		}
-	},
+            "codeProfession": "13",
+            "libProfession": "Chirurgien plasticien"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "14",
         "fields": {
-            "codeProfession": "73",
-            "libProfession": "Chiropracteur"
-		}
-	},
+            "codeProfession": "14",
+            "libProfession": "Chirurgien thoracique et cardio-vasculaire"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "15",
         "fields": {
-            "codeProfession": "81",
-            "libProfession": "Orthoprothésiste"
-		}
-	},
+            "codeProfession": "15",
+            "libProfession": "Chirurgien urologue"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "16",
         "fields": {
-            "codeProfession": "82",
-            "libProfession": "Podo-Orthésiste"
-		}
-	},
+            "codeProfession": "16",
+            "libProfession": "Chirurgien vasculaire"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "17",
         "fields": {
-            "codeProfession": "84",
-            "libProfession": "Oculariste"
-		}
-	},
+            "codeProfession": "17",
+            "libProfession": "Chirurgien viscéral"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "18",
         "fields": {
-            "codeProfession": "50",
-            "libProfession": "Sage-Femme"
-		}
-	},
+            "codeProfession": "18",
+            "libProfession": "Chirurgien-dentiste"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "19",
         "fields": {
-            "codeProfession": "21",
-            "libProfession": "Pharmacien"
-		}
-	},
+            "codeProfession": "19",
+            "libProfession": "Chirurgien-dentiste spécialiste en orthopédie dento-faciale"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "20",
         "fields": {
-            "codeProfession": "40",
-            "libProfession": "Chirurgien-Dentiste"
-		}
-	},
+            "codeProfession": "20",
+            "libProfession": "Chirurgiens-dentistes spécialiste en chirurgie orale"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "21",
         "fields": {
-            "codeProfession": "10",
-            "libProfession": "Médecin"
-		}
-	},
+            "codeProfession": "21",
+            "libProfession": "Chirurgiens-dentistes spécialiste en médecine bucco-dentaire"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "22",
         "fields": {
-            "codeProfession": "70",
-            "libProfession": "Masseur-Kinésithérapeute"
-		}
-	},
+            "codeProfession": "22",
+            "libProfession": "Dermatologue et vénérologue"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "23",
         "fields": {
-            "codeProfession": "80",
-            "libProfession": "Pédicure-Podologue"
-		}
-	},
+            "codeProfession": "23",
+            "libProfession": "Endocrinologue-diabétologue"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "24",
         "fields": {
-            "codeProfession": "60",
-            "libProfession": "Infirmier"
-		}
-	},
+            "codeProfession": "24",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "25",
         "fields": {
-            "codeProfession": "41",
-            "libProfession": "Assistant social"
-		}
-	},
+            "codeProfession": "25",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "26",
         "fields": {
-            "codeProfession": "31",
-            "libProfession": "Assistant dentaire"
-		}
-	},
+            "codeProfession": "26",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "27",
         "fields": {
-            "codeProfession": "99",
-            "libProfession": "Acteur du système de santé caractérisé par un rôle"
-		}
-	},
+            "codeProfession": "27",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
     {
         "model": "carte.profession",
         "pk": "28",
         "fields": {
-            "codeProfession": "85",
-            "libProfession": "Epithésiste"
-		}
-	}
+            "codeProfession": "28",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "29",
+        "fields": {
+            "codeProfession": "29",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "30",
+        "fields": {
+            "codeProfession": "30",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "31",
+        "fields": {
+            "codeProfession": "31",
+            "libProfession": "Fournisseur de matériel médical et para-médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "32",
+        "fields": {
+            "codeProfession": "32",
+            "libProfession": "Fournisseur de matériel médical et para-médical33 : Gastro-entérologue et hépatologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "33",
+        "fields": {
+            "codeProfession": "33",
+            "libProfession": "Gastro-entérologue et hépatologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "34",
+        "fields": {
+            "codeProfession": "34",
+            "libProfession": "Gériatre"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "35",
+        "fields": {
+            "codeProfession": "35",
+            "libProfession": "Gynécologue médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "36",
+        "fields": {
+            "codeProfession": "36",
+            "libProfession": "Gynécologue médical et obstétricien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "37",
+        "fields": {
+            "codeProfession": "37",
+            "libProfession": "Gynécologue obstétricien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "38",
+        "fields": {
+            "codeProfession": "38",
+            "libProfession": "Hématologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "39",
+        "fields": {
+            "codeProfession": "39",
+            "libProfession": "Infirmier"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "40",
+        "fields": {
+            "codeProfession": "40",
+            "libProfession": "Laboratoire"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "41",
+        "fields": {
+            "codeProfession": "41",
+            "libProfession": "Laboratoire"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "42",
+        "fields": {
+            "codeProfession": "42",
+            "libProfession": "Laboratoire d'anatomo-pathologie"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "43",
+        "fields": {
+            "codeProfession": "43",
+            "libProfession": "Masseur-kinésithérapeute"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "44",
+        "fields": {
+            "codeProfession": "44",
+            "libProfession": "Médecin biologiste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "45",
+        "fields": {
+            "codeProfession": "45",
+            "libProfession": "Médecin généraliste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "46",
+        "fields": {
+            "codeProfession": "46",
+            "libProfession": "Médecin généraliste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "47",
+        "fields": {
+            "codeProfession": "47",
+            "libProfession": "Médecin généraliste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "48",
+        "fields": {
+            "codeProfession": "48",
+            "libProfession": "Médecin généticien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "49",
+        "fields": {
+            "codeProfession": "49",
+            "libProfession": "Médecin spécialiste en médecine nucléaire"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "50",
+        "fields": {
+            "codeProfession": "50",
+            "libProfession": "Médecin spécialiste en santé publique et médecine sociale"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "51",
+        "fields": {
+            "codeProfession": "51",
+            "libProfession": "Néphrologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "52",
+        "fields": {
+            "codeProfession": "52",
+            "libProfession": "Neurochirurgien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "53",
+        "fields": {
+            "codeProfession": "53",
+            "libProfession": "Neurologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "54",
+        "fields": {
+            "codeProfession": "54",
+            "libProfession": "Neuropsychiatre"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "55",
+        "fields": {
+            "codeProfession": "55",
+            "libProfession": "Obstétricien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "56",
+        "fields": {
+            "codeProfession": "56",
+            "libProfession": "Ophtalmologiste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "57",
+        "fields": {
+            "codeProfession": "57",
+            "libProfession": "Orthophoniste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "58",
+        "fields": {
+            "codeProfession": "58",
+            "libProfession": "Orthoptiste"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "59",
+        "fields": {
+            "codeProfession": "59",
+            "libProfession": "Oto-Rhino-Laryngologue (ORL) et chirurgien cervico-facial"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "60",
+        "fields": {
+            "codeProfession": "60",
+            "libProfession": "Pédiatre"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "61",
+        "fields": {
+            "codeProfession": "61",
+            "libProfession": "Pédicure-podologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "62",
+        "fields": {
+            "codeProfession": "62",
+            "libProfession": "Pharmacien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "63",
+        "fields": {
+            "codeProfession": "63",
+            "libProfession": "Pharmacien"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "64",
+        "fields": {
+            "codeProfession": "64",
+            "libProfession": "Pneumologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "65",
+        "fields": {
+            "codeProfession": "65",
+            "libProfession": "Psychiatre"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "66",
+        "fields": {
+            "codeProfession": "66",
+            "libProfession": "Psychiatre de l'enfant et de l'adolescent"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "67",
+        "fields": {
+            "codeProfession": "67",
+            "libProfession": "Radiologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "68",
+        "fields": {
+            "codeProfession": "68",
+            "libProfession": "Radiothérapeute"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "69",
+        "fields": {
+            "codeProfession": "69",
+            "libProfession": "Réanimateur médical"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "70",
+        "fields": {
+            "codeProfession": "70",
+            "libProfession": "Rhumatologue"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "71",
+        "fields": {
+            "codeProfession": "71",
+            "libProfession": "Sage-femme"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "72",
+        "fields": {
+            "codeProfession": "72",
+            "libProfession": "Spécialiste en médecine interne"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "73",
+        "fields": {
+            "codeProfession": "73",
+            "libProfession": "Spécialiste en médecine physique et de réadaptation"
+        }
+    },
+    {
+        "model": "carte.profession",
+        "pk": "74",
+        "fields": {
+            "codeProfession": "74",
+            "libProfession": "Stomatologiste"
+        }
+    }
 ]

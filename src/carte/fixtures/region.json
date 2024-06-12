@@ -1,0 +1,10 @@
+[
+    {
+        "model": "carte.region",
+        "pk": "1",
+        "fields": {
+            "idRegion": 1,
+            "libRegion": "Occitanie"
+        }
+    }
+]

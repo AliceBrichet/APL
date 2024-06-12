@@ -40,7 +40,7 @@ class Migration(migrations.Migration):
             name='Profession',
             fields=[
                 ('idProfession', models.AutoField(primary_key=True, serialize=False)),
-                ('lib', models.CharField(max_length=120)),
+                ('libProfession', models.CharField(max_length=120)),
             ],
         ),
         migrations.CreateModel(
@@ -62,7 +62,7 @@ class Migration(migrations.Migration):
             name='Specialite',
             fields=[
                 ('idSpecialite', models.AutoField(primary_key=True, serialize=False)),
-                ('lib', models.CharField(max_length=120)),
+                ('libSpecialite', models.CharField(max_length=120)),
             ],
         ),
         migrations.CreateModel(
