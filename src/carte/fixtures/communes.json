@@ -3,390 +3,450 @@
         "model": "carte.commune",
         "pk": 1,
         "fields": {
-            "codePostal": 81001,
+            "codePostal": 81470,
             "libCommune": "Aguts",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5319239166,
+            "longitude": 1.92450141388
         }
     },
     {
         "model": "carte.commune",
         "pk": 2,
         "fields": {
-            "codePostal": 81002,
+            "codePostal": 81200,
             "libCommune": "Aiguefonde",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4928550174,
+            "longitude": 2.32315581418
         }
     },
     {
         "model": "carte.commune",
         "pk": 3,
         "fields": {
-            "codePostal": 81003,
+            "codePostal": 81250,
             "libCommune": "Alban",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8843961225,
+            "longitude": 2.45700986389
         }
     },
     {
         "model": "carte.commune",
         "pk": 4,
         "fields": {
-            "codePostal": 81004,
+            "codePostal": 81000,
             "libCommune": "Albi",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9258213622,
+            "longitude": 2.14686328555
         }
     },
     {
         "model": "carte.commune",
         "pk": 5,
         "fields": {
-            "codePostal": 81005,
+            "codePostal": 81240,
             "libCommune": "Albine",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4439474577,
+            "longitude": 2.52811969517
         }
     },
     {
         "model": "carte.commune",
         "pk": 6,
         "fields": {
-            "codePostal": 81006,
+            "codePostal": 81470,
             "libCommune": "Algans",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6001082724,
+            "longitude": 1.89151438957
         }
     },
     {
         "model": "carte.commune",
         "pk": 7,
         "fields": {
-            "codePostal": 81007,
+            "codePostal": 81140,
             "libCommune": "Alos",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0205135175,
+            "longitude": 1.87448422002
         }
     },
     {
         "model": "carte.commune",
         "pk": 8,
         "fields": {
-            "codePostal": 81008,
+            "codePostal": 81190,
             "libCommune": "Almayrac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0989296815,
+            "longitude": 2.155985909
         }
     },
     {
         "model": "carte.commune",
         "pk": 9,
         "fields": {
-            "codePostal": 81009,
+            "codePostal": 81170,
             "libCommune": "Amarens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0438938289,
+            "longitude": 1.92108502728
         }
     },
     {
         "model": "carte.commune",
         "pk": 10,
         "fields": {
-            "codePostal": 81010,
+            "codePostal": 81430,
             "libCommune": "Ambialet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9263758841,
+            "longitude": 2.37579999159
         }
     },
     {
         "model": "carte.commune",
         "pk": 11,
         "fields": {
-            "codePostal": 81011,
+            "codePostal": 81500,
             "libCommune": "Ambres",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7287344791,
+            "longitude": 1.83182396743
         }
     },
     {
         "model": "carte.commune",
         "pk": 12,
         "fields": {
-            "codePostal": 81012,
+            "codePostal": 81140,
             "libCommune": "Andillac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0051181728,
+            "longitude": 1.89353888985
         }
     },
     {
         "model": "carte.commune",
         "pk": 13,
         "fields": {
-            "codePostal": 81013,
+            "codePostal": 81350,
             "libCommune": "Andouque",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0085365227,
+            "longitude": 2.30256637897
         }
     },
     {
         "model": "carte.commune",
         "pk": 14,
         "fields": {
-            "codePostal": 81014,
-            "libCommune": "Angl\u00e8s",
+            "codePostal": 81260,
+            "libCommune": "Anglès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.550474503,
+            "longitude": 2.58241545036
         }
     },
     {
         "model": "carte.commune",
         "pk": 15,
         "fields": {
-            "codePostal": 81015,
+            "codePostal": 81700,
             "libCommune": "Appelle",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5806834944,
+            "longitude": 1.95329824844
         }
     },
     {
         "model": "carte.commune",
         "pk": 16,
         "fields": {
-            "codePostal": 81016,
+            "codePostal": 81110,
             "libCommune": "Arfons",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4246280081,
+            "longitude": 2.18966306697
         }
     },
     {
         "model": "carte.commune",
         "pk": 17,
         "fields": {
-            "codePostal": 81017,
+            "codePostal": 81360,
             "libCommune": "Arifat",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7758760162,
+            "longitude": 2.3529229423
         }
     },
     {
         "model": "carte.commune",
         "pk": 18,
         "fields": {
-            "codePostal": 81018,
-            "libCommune": "Arth\u00e8s",
+            "codePostal": 81160,
+            "libCommune": "Arthès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9638815505,
+            "longitude": 2.22587013595
         }
     },
     {
         "model": "carte.commune",
         "pk": 19,
         "fields": {
-            "codePostal": 81019,
+            "codePostal": 81340,
             "libCommune": "Assac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9784300195,
+            "longitude": 2.43430907568
         }
     },
     {
         "model": "carte.commune",
         "pk": 20,
         "fields": {
-            "codePostal": 81020,
+            "codePostal": 81600,
             "libCommune": "Aussac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8628657084,
+            "longitude": 2.03857774636
         }
     },
     {
         "model": "carte.commune",
         "pk": 21,
         "fields": {
-            "codePostal": 81021,
+            "codePostal": 81200,
             "libCommune": "Aussillon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4946823944,
+            "longitude": 2.35580492552
         }
     },
     {
         "model": "carte.commune",
         "pk": 22,
         "fields": {
-            "codePostal": 81022,
-            "libCommune": "Banni\u00e8res",
+            "codePostal": 81500,
+            "libCommune": "Bannières",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6190407005,
+            "longitude": 1.75804967667
         }
     },
     {
         "model": "carte.commune",
         "pk": 23,
         "fields": {
-            "codePostal": 81023,
+            "codePostal": 81320,
             "libCommune": "Barre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7432621915,
+            "longitude": 2.81599308412
         }
     },
     {
         "model": "carte.commune",
         "pk": 24,
         "fields": {
-            "codePostal": 81024,
+            "codePostal": 81630,
             "libCommune": "Beauvais-sur-Tescou",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8981519823,
+            "longitude": 1.57160347509
         }
     },
     {
         "model": "carte.commune",
         "pk": 25,
         "fields": {
-            "codePostal": 81025,
+            "codePostal": 81500,
             "libCommune": "Belcastel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6490033004,
+            "longitude": 1.7499203412
         }
     },
     {
         "model": "carte.commune",
         "pk": 26,
         "fields": {
-            "codePostal": 81026,
+            "codePostal": 81430,
             "libCommune": "Bellegarde-Marsal",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9045721736,
+            "longitude": 2.27727320222
         }
     },
     {
         "model": "carte.commune",
         "pk": 27,
         "fields": {
-            "codePostal": 81027,
+            "codePostal": 81540,
             "libCommune": "Belleserre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4898977584,
+            "longitude": 2.05991842969
         }
     },
     {
         "model": "carte.commune",
         "pk": 28,
         "fields": {
-            "codePostal": 81028,
+            "codePostal": 81260,
             "libCommune": "Berlats",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6990584222,
+            "longitude": 2.56292415401
         }
     },
     {
         "model": "carte.commune",
         "pk": 29,
         "fields": {
-            "codePostal": 81029,
+            "codePostal": 81150,
             "libCommune": "Bernac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9532150821,
+            "longitude": 2.02995456926
         }
     },
     {
         "model": "carte.commune",
         "pk": 30,
         "fields": {
-            "codePostal": 81030,
+            "codePostal": 81700,
             "libCommune": "Bertre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6053640705,
+            "longitude": 1.94349435829
         }
     },
     {
@@ -406,169 +466,195 @@
         "model": "carte.commune",
         "pk": 32,
         "fields": {
-            "codePostal": 81032,
+            "codePostal": 81700,
             "libCommune": "Blan",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5195201544,
+            "longitude": 2.02369927552
         }
     },
     {
         "model": "carte.commune",
         "pk": 33,
         "fields": {
-            "codePostal": 81033,
+            "codePostal": 81400,
             "libCommune": "Blaye-les-Mines",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.033065795,
+            "longitude": 2.14278920127
         }
     },
     {
         "model": "carte.commune",
         "pk": 34,
         "fields": {
-            "codePostal": 81034,
+            "codePostal": 81490,
             "libCommune": "Boissezon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.572194321,
+            "longitude": 2.40561286973
         }
     },
     {
         "model": "carte.commune",
         "pk": 35,
         "fields": {
-            "codePostal": 81035,
+            "codePostal": 81170,
             "libCommune": "Bournazel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1008171987,
+            "longitude": 1.96845675967
         }
     },
     {
         "model": "carte.commune",
         "pk": 36,
         "fields": {
-            "codePostal": 81036,
+            "codePostal": 81660,
             "libCommune": "Bout-du-Pont-de-Larn",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5015583238,
+            "longitude": 2.42981143239
         }
     },
     {
         "model": "carte.commune",
         "pk": 37,
         "fields": {
-            "codePostal": 81037,
+            "codePostal": 81260,
             "libCommune": "Brassac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6117373541,
+            "longitude": 2.51133931505
         }
     },
     {
         "model": "carte.commune",
         "pk": 38,
         "fields": {
-            "codePostal": 81038,
+            "codePostal": 81600,
             "libCommune": "Brens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8878107316,
+            "longitude": 1.92967120122
         }
     },
     {
         "model": "carte.commune",
         "pk": 39,
         "fields": {
-            "codePostal": 81039,
+            "codePostal": 81390,
             "libCommune": "Briatexte",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.747193404,
+            "longitude": 1.92377964856
         }
     },
     {
         "model": "carte.commune",
         "pk": 40,
         "fields": {
-            "codePostal": 81040,
+            "codePostal": 81440,
             "libCommune": "Brousse",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.720141927,
+            "longitude": 2.06153730693
         }
     },
     {
         "model": "carte.commune",
         "pk": 41,
         "fields": {
-            "codePostal": 81041,
+            "codePostal": 81600,
             "libCommune": "Broze",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9545871483,
+            "longitude": 1.89131601329
         }
     },
     {
         "model": "carte.commune",
         "pk": 42,
         "fields": {
-            "codePostal": 81042,
+            "codePostal": 81100,
             "libCommune": "Burlats",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.634494226,
+            "longitude": 2.32985791816
         }
     },
     {
         "model": "carte.commune",
         "pk": 43,
         "fields": {
-            "codePostal": 81043,
+            "codePostal": 81300,
             "libCommune": "Busque",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7853547999,
+            "longitude": 1.94837679226
         }
     },
     {
         "model": "carte.commune",
         "pk": 44,
         "fields": {
-            "codePostal": 81044,
-            "libCommune": "Caban\u00e8s",
+            "codePostal": 81500,
+            "libCommune": "Cabanès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7158848933,
+            "longitude": 1.94997109086
         }
     },
     {
@@ -588,117 +674,135 @@
         "model": "carte.commune",
         "pk": 46,
         "fields": {
-            "codePostal": 81046,
+            "codePostal": 81600,
             "libCommune": "Cadalen",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8430473493,
+            "longitude": 1.9835948491
         }
     },
     {
         "model": "carte.commune",
         "pk": 47,
         "fields": {
-            "codePostal": 81047,
+            "codePostal": 81340,
             "libCommune": "Cadix",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9764011774,
+            "longitude": 2.4705615004
         }
     },
     {
         "model": "carte.commune",
         "pk": 48,
         "fields": {
-            "codePostal": 81048,
+            "codePostal": 81130,
             "libCommune": "Cagnac-les-Mines",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9810206314,
+            "longitude": 2.11921214
         }
     },
     {
         "model": "carte.commune",
         "pk": 49,
         "fields": {
-            "codePostal": 81049,
+            "codePostal": 81540,
             "libCommune": "Cahuzac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 85.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4764567582,
+            "longitude": 2.08126437181
         }
     },
     {
         "model": "carte.commune",
         "pk": 50,
         "fields": {
-            "codePostal": 81050,
-            "libCommune": "Cambon-l\u00e8s-Lavaur",
+            "codePostal": 81470,
+            "libCommune": "Cambon-lès-Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5919658336,
+            "longitude": 1.84810953199
         }
     },
     {
         "model": "carte.commune",
         "pk": 51,
         "fields": {
-            "codePostal": 81051,
-            "libCommune": "Cahuzac-sur-V\u00e8re",
+            "codePostal": 81140,
+            "libCommune": "Cahuzac-sur-Vère",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9863939929,
+            "longitude": 1.91547444957
         }
     },
     {
         "model": "carte.commune",
         "pk": 52,
         "fields": {
-            "codePostal": 81052,
+            "codePostal": 81990,
             "libCommune": "Cambon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9118287405,
+            "longitude": 2.2237324057
         }
     },
     {
         "model": "carte.commune",
         "pk": 53,
         "fields": {
-            "codePostal": 81053,
-            "libCommune": "Camboun\u00e8s",
+            "codePostal": 81260,
+            "libCommune": "Cambounès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5907432712,
+            "longitude": 2.43974230887
         }
     },
     {
         "model": "carte.commune",
         "pk": 54,
         "fields": {
-            "codePostal": 81054,
+            "codePostal": 81580,
             "libCommune": "Cambounet-sur-le-Sor",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5776046558,
+            "longitude": 2.12002411847
         }
     },
     {
@@ -718,325 +822,375 @@
         "model": "carte.commune",
         "pk": 56,
         "fields": {
-            "codePostal": 81056,
+            "codePostal": 81140,
             "libCommune": "Campagnac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0329274572,
+            "longitude": 1.83921027036
         }
     },
     {
         "model": "carte.commune",
         "pk": 57,
         "fields": {
-            "codePostal": 81058,
+            "codePostal": 81570,
             "libCommune": "Carbes",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6353726667,
+            "longitude": 2.15170395201
         }
     },
     {
         "model": "carte.commune",
         "pk": 58,
         "fields": {
-            "codePostal": 81059,
+            "codePostal": 81990,
             "libCommune": "Carlus",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8879968816,
+            "longitude": 2.10436309581
         }
     },
     {
         "model": "carte.commune",
         "pk": 59,
         "fields": {
-            "codePostal": 81060,
+            "codePostal": 81400,
             "libCommune": "Carmaux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0566667256,
+            "longitude": 2.16641418483
         }
     },
     {
         "model": "carte.commune",
         "pk": 60,
         "fields": {
-            "codePostal": 81061,
+            "codePostal": 81150,
             "libCommune": "Castanet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9734777518,
+            "longitude": 2.03636220381
         }
     },
     {
         "model": "carte.commune",
         "pk": 61,
         "fields": {
-            "codePostal": 81062,
+            "codePostal": 81260,
             "libCommune": "Fontrieu",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6578748652,
+            "longitude": 2.52758390349
         }
     },
     {
         "model": "carte.commune",
         "pk": 62,
         "fields": {
-            "codePostal": 81063,
-            "libCommune": "Castelnau-de-L\u00e9vis",
+            "codePostal": 81150,
+            "libCommune": "Castelnau-de-Lévis",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9437169399,
+            "longitude": 2.07110041598
         }
     },
     {
         "model": "carte.commune",
         "pk": 63,
         "fields": {
-            "codePostal": 81064,
+            "codePostal": 81140,
             "libCommune": "Castelnau-de-Montmiral",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9867805665,
+            "longitude": 1.78310029174
         }
     },
     {
         "model": "carte.commune",
         "pk": 64,
         "fields": {
-            "codePostal": 81065,
+            "codePostal": 81100,
             "libCommune": "Castres",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6156511237,
+            "longitude": 2.23787231587
         }
     },
     {
         "model": "carte.commune",
         "pk": 65,
         "fields": {
-            "codePostal": 81066,
-            "libCommune": "Caucali\u00e8res",
+            "codePostal": 81200,
+            "libCommune": "Caucalières",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5399609489,
+            "longitude": 2.31043142734
         }
     },
     {
         "model": "carte.commune",
         "pk": 66,
         "fields": {
-            "codePostal": 81067,
+            "codePostal": 81150,
             "libCommune": "Cestayrols",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9825675453,
+            "longitude": 1.98780845646
         }
     },
     {
         "model": "carte.commune",
         "pk": 67,
         "fields": {
-            "codePostal": 81068,
+            "codePostal": 81640,
             "libCommune": "Combefa",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0498006457,
+            "longitude": 2.09498362646
         }
     },
     {
         "model": "carte.commune",
         "pk": 68,
         "fields": {
-            "codePostal": 81069,
+            "codePostal": 81170,
             "libCommune": "Cordes-sur-Ciel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0681683828,
+            "longitude": 1.95360871103
         }
     },
     {
         "model": "carte.commune",
         "pk": 69,
         "fields": {
-            "codePostal": 81070,
+            "codePostal": 81800,
             "libCommune": "Coufouleux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7978489409,
+            "longitude": 1.73158426557
         }
     },
     {
         "model": "carte.commune",
         "pk": 70,
         "fields": {
-            "codePostal": 81071,
+            "codePostal": 81340,
             "libCommune": "Courris",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9567412395,
+            "longitude": 2.40226789495
         }
     },
     {
         "model": "carte.commune",
         "pk": 71,
         "fields": {
-            "codePostal": 81072,
+            "codePostal": 81350,
             "libCommune": "Crespin",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0469014925,
+            "longitude": 2.30614613299
         }
     },
     {
         "model": "carte.commune",
         "pk": 72,
         "fields": {
-            "codePostal": 81073,
+            "codePostal": 81350,
             "libCommune": "Crespinet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9551249562,
+            "longitude": 2.29516613633
         }
     },
     {
         "model": "carte.commune",
         "pk": 73,
         "fields": {
-            "codePostal": 81074,
+            "codePostal": 81990,
             "libCommune": "Cunac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9274396398,
+            "longitude": 2.22514974494
         }
     },
     {
         "model": "carte.commune",
         "pk": 74,
         "fields": {
-            "codePostal": 81075,
+            "codePostal": 81570,
             "libCommune": "Cuq",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6534622232,
+            "longitude": 2.08686344957
         }
     },
     {
         "model": "carte.commune",
         "pk": 75,
         "fields": {
-            "codePostal": 81076,
+            "codePostal": 81470,
             "libCommune": "Cuq-Toulza",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5623792755,
+            "longitude": 1.88686468644
         }
     },
     {
         "model": "carte.commune",
         "pk": 76,
         "fields": {
-            "codePostal": 81077,
+            "codePostal": 81250,
             "libCommune": "Curvalle",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.911329791,
+            "longitude": 2.50746154724
         }
     },
     {
         "model": "carte.commune",
         "pk": 77,
         "fields": {
-            "codePostal": 81078,
+            "codePostal": 81220,
             "libCommune": "Damiatte",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6801644905,
+            "longitude": 1.98487101085
         }
     },
     {
         "model": "carte.commune",
         "pk": 78,
         "fields": {
-            "codePostal": 81079,
-            "libCommune": "D\u00e9nat",
+            "codePostal": 81120,
+            "libCommune": "Dénat",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8395342344,
+            "longitude": 2.20292263193
         }
     },
     {
         "model": "carte.commune",
         "pk": 79,
         "fields": {
-            "codePostal": 81080,
+            "codePostal": 81170,
             "libCommune": "Donnazac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0124743506,
+            "longitude": 1.94438171897
         }
     },
     {
         "model": "carte.commune",
         "pk": 80,
         "fields": {
-            "codePostal": 81081,
+            "codePostal": 81110,
             "libCommune": "Dourgne",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4753070746,
+            "longitude": 2.14244605538
         }
     },
     {
@@ -1056,156 +1210,180 @@
         "model": "carte.commune",
         "pk": 82,
         "fields": {
-            "codePostal": 81083,
+            "codePostal": 81540,
             "libCommune": "Durfort",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4316297615,
+            "longitude": 2.07369430679
         }
     },
     {
         "model": "carte.commune",
         "pk": 83,
         "fields": {
-            "codePostal": 81084,
+            "codePostal": 81290,
             "libCommune": "Escoussens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4822756264,
+            "longitude": 2.22873305615
         }
     },
     {
         "model": "carte.commune",
         "pk": 84,
         "fields": {
-            "codePostal": 81085,
+            "codePostal": 81530,
             "libCommune": "Escroux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
-            "demandeSoin": null,
-            "departement": 1
+            "demandeSoin": 47.0,
+            "departement": 1,
+            "latitude": 43.7575872342,
+            "longitude": 2.64191518496
         }
     },
     {
         "model": "carte.commune",
         "pk": 85,
         "fields": {
-            "codePostal": 81086,
-            "libCommune": "Esp\u00e9rausses",
+            "codePostal": 81260,
+            "libCommune": "Espérausses",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6998410233,
+            "longitude": 2.52506371565
         }
     },
     {
         "model": "carte.commune",
         "pk": 86,
         "fields": {
-            "codePostal": 81087,
+            "codePostal": 81150,
             "libCommune": "Fayssac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9601258045,
+            "longitude": 1.98037928954
         }
     },
     {
         "model": "carte.commune",
         "pk": 87,
         "fields": {
-            "codePostal": 81088,
+            "codePostal": 81120,
             "libCommune": "Fauch",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8391719667,
+            "longitude": 2.25836350572
         }
     },
     {
         "model": "carte.commune",
         "pk": 88,
         "fields": {
-            "codePostal": 81089,
+            "codePostal": 81340,
             "libCommune": "Faussergues",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0406000553,
+            "longitude": 2.43023975408
         }
     },
     {
         "model": "carte.commune",
         "pk": 89,
         "fields": {
-            "codePostal": 81090,
-            "libCommune": "F\u00e9nols",
+            "codePostal": 81600,
+            "libCommune": "Fénols",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8495035215,
+            "longitude": 2.0559946114
         }
     },
     {
         "model": "carte.commune",
         "pk": 90,
         "fields": {
-            "codePostal": 81092,
+            "codePostal": 81500,
             "libCommune": "Fiac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.699007933,
+            "longitude": 1.90988416246
         }
     },
     {
         "model": "carte.commune",
         "pk": 91,
         "fields": {
-            "codePostal": 81093,
+            "codePostal": 81150,
             "libCommune": "Florentin",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8854183688,
+            "longitude": 2.02985845557
         }
     },
     {
         "model": "carte.commune",
         "pk": 92,
         "fields": {
-            "codePostal": 81094,
+            "codePostal": 81340,
             "libCommune": "Fraissines",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9732107109,
+            "longitude": 2.50810158198
         }
     },
     {
         "model": "carte.commune",
         "pk": 93,
         "fields": {
-            "codePostal": 81095,
+            "codePostal": 81170,
             "libCommune": "Frausseilles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0296677126,
+            "longitude": 1.92883903661
         }
     },
     {
@@ -1225,52 +1403,60 @@
         "model": "carte.commune",
         "pk": 95,
         "fields": {
-            "codePostal": 81097,
-            "libCommune": "Fr\u00e9jairolles",
+            "codePostal": 81990,
+            "libCommune": "Fréjairolles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8786600972,
+            "longitude": 2.23043162457
         }
     },
     {
         "model": "carte.commune",
         "pk": 96,
         "fields": {
-            "codePostal": 81098,
-            "libCommune": "Fr\u00e9jeville",
+            "codePostal": 81570,
+            "libCommune": "Fréjeville",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6088880274,
+            "longitude": 2.14739300043
         }
     },
     {
         "model": "carte.commune",
         "pk": 97,
         "fields": {
-            "codePostal": 81099,
+            "codePostal": 81600,
             "libCommune": "Gaillac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9170968776,
+            "longitude": 1.88647213801
         }
     },
     {
         "model": "carte.commune",
         "pk": 98,
         "fields": {
-            "codePostal": 81100,
+            "codePostal": 81700,
             "libCommune": "Garrevaques",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4927448733,
+            "longitude": 1.98351501119
         }
     },
     {
@@ -1290,676 +1476,780 @@
         "model": "carte.commune",
         "pk": 100,
         "fields": {
-            "codePostal": 81102,
+            "codePostal": 81500,
             "libCommune": "Garrigues",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7023216398,
+            "longitude": 1.70252072015
         }
     },
     {
         "model": "carte.commune",
         "pk": 101,
         "fields": {
-            "codePostal": 81103,
+            "codePostal": 81530,
             "libCommune": "Gijounet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7086383837,
+            "longitude": 2.6070098158
         }
     },
     {
         "model": "carte.commune",
         "pk": 102,
         "fields": {
-            "codePostal": 81104,
+            "codePostal": 81500,
             "libCommune": "Giroussens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.769779769,
+            "longitude": 1.7967421125
         }
     },
     {
         "model": "carte.commune",
         "pk": 103,
         "fields": {
-            "codePostal": 81105,
+            "codePostal": 81300,
             "libCommune": "Graulhet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7576562195,
+            "longitude": 2.00122512851
         }
     },
     {
         "model": "carte.commune",
         "pk": 104,
         "fields": {
-            "codePostal": 81106,
+            "codePostal": 81800,
             "libCommune": "Grazac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8499819976,
+            "longitude": 1.64948464034
         }
     },
     {
         "model": "carte.commune",
         "pk": 105,
         "fields": {
-            "codePostal": 81108,
+            "codePostal": 81170,
             "libCommune": "Itzac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0506305724,
+            "longitude": 1.84654889285
         }
     },
     {
         "model": "carte.commune",
         "pk": 106,
         "fields": {
-            "codePostal": 81109,
-            "libCommune": "Jonqui\u00e8res",
+            "codePostal": 81440,
+            "libCommune": "Jonquières",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6585990989,
+            "longitude": 2.14341169546
         }
     },
     {
         "model": "carte.commune",
         "pk": 107,
         "fields": {
-            "codePostal": 81110,
+            "codePostal": 81190,
             "libCommune": "Jouqueviel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1816769141,
+            "longitude": 2.13340021405
         }
     },
     {
         "model": "carte.commune",
         "pk": 108,
         "fields": {
-            "codePostal": 81111,
+            "codePostal": 81170,
             "libCommune": "Labarthe-Bleys",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0838134122,
+            "longitude": 1.89558851535
         }
     },
     {
         "model": "carte.commune",
         "pk": 109,
         "fields": {
-            "codePostal": 81112,
-            "libCommune": "Labastide-de-L\u00e9vis",
+            "codePostal": 81150,
+            "libCommune": "Labastide-de-Lévis",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9310810991,
+            "longitude": 2.00269049249
         }
     },
     {
         "model": "carte.commune",
         "pk": 110,
         "fields": {
-            "codePostal": 81114,
+            "codePostal": 81400,
             "libCommune": "Labastide-Gabausse",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0310798873,
+            "longitude": 2.09978207665
         }
     },
     {
         "model": "carte.commune",
         "pk": 111,
         "fields": {
-            "codePostal": 81115,
+            "codePostal": 81270,
             "libCommune": "Labastide-Rouairoux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4826602247,
+            "longitude": 2.63557921234
         }
     },
     {
         "model": "carte.commune",
         "pk": 112,
         "fields": {
-            "codePostal": 81116,
+            "codePostal": 81500,
             "libCommune": "Labastide-Saint-Georges",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6998934044,
+            "longitude": 1.84536170011
         }
     },
     {
         "model": "carte.commune",
         "pk": 113,
         "fields": {
-            "codePostal": 81117,
-            "libCommune": "Labessi\u00e8re-Candeil",
+            "codePostal": 81300,
+            "libCommune": "Labessière-Candeil",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8006328321,
+            "longitude": 2.02071432029
         }
     },
     {
         "model": "carte.commune",
         "pk": 114,
         "fields": {
-            "codePostal": 81118,
-            "libCommune": "Laboulb\u00e8ne",
+            "codePostal": 81100,
+            "libCommune": "Laboulbène",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6660569606,
+            "longitude": 2.20401840916
         }
     },
     {
         "model": "carte.commune",
         "pk": 115,
         "fields": {
-            "codePostal": 81119,
+            "codePostal": 81120,
             "libCommune": "Laboutarie",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7886845517,
+            "longitude": 2.11353900719
         }
     },
     {
         "model": "carte.commune",
         "pk": 116,
         "fields": {
-            "codePostal": 81120,
-            "libCommune": "Labrugui\u00e8re",
+            "codePostal": 81290,
+            "libCommune": "Labruguière",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5090050313,
+            "longitude": 2.26662007488
         }
     },
     {
         "model": "carte.commune",
         "pk": 117,
         "fields": {
-            "codePostal": 81121,
-            "libCommune": "Lacabar\u00e8de",
+            "codePostal": 81240,
+            "libCommune": "Lacabarède",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4490307181,
+            "longitude": 2.593058648
         }
     },
     {
         "model": "carte.commune",
         "pk": 118,
         "fields": {
-            "codePostal": 81122,
+            "codePostal": 81340,
             "libCommune": "Lacapelle-Pinet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0677076414,
+            "longitude": 2.35434693156
         }
     },
     {
         "model": "carte.commune",
         "pk": 119,
         "fields": {
-            "codePostal": 81123,
-            "libCommune": "Lacapelle-S\u00e9galar",
+            "codePostal": 81170,
+            "libCommune": "Lacapelle-Ségalar",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1174207039,
+            "longitude": 1.99686305545
         }
     },
     {
         "model": "carte.commune",
         "pk": 120,
         "fields": {
-            "codePostal": 81124,
+            "codePostal": 81230,
             "libCommune": "Lacaune",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6972753085,
+            "longitude": 2.68833285874
         }
     },
     {
         "model": "carte.commune",
         "pk": 121,
         "fields": {
-            "codePostal": 81125,
+            "codePostal": 81330,
             "libCommune": "Lacaze",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7430264431,
+            "longitude": 2.50920247729
         }
     },
     {
         "model": "carte.commune",
         "pk": 122,
         "fields": {
-            "codePostal": 81126,
+            "codePostal": 81500,
             "libCommune": "Lacougotte-Cadoul",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6418245193,
+            "longitude": 1.82103741651
         }
     },
     {
         "model": "carte.commune",
         "pk": 123,
         "fields": {
-            "codePostal": 81127,
+            "codePostal": 81470,
             "libCommune": "Lacroisille",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.58053089,
+            "longitude": 1.92863316637
         }
     },
     {
         "model": "carte.commune",
         "pk": 124,
         "fields": {
-            "codePostal": 81128,
+            "codePostal": 81210,
             "libCommune": "Lacrouzette",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6622260196,
+            "longitude": 2.36167467964
         }
     },
     {
         "model": "carte.commune",
         "pk": 125,
         "fields": {
-            "codePostal": 81129,
+            "codePostal": 81110,
             "libCommune": "Lagardiolle",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4996169804,
+            "longitude": 2.0926664241
         }
     },
     {
         "model": "carte.commune",
         "pk": 126,
         "fields": {
-            "codePostal": 81130,
+            "codePostal": 81090,
             "libCommune": "Lagarrigue",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5759645911,
+            "longitude": 2.28583565829
         }
     },
     {
         "model": "carte.commune",
         "pk": 127,
         "fields": {
-            "codePostal": 81131,
+            "codePostal": 81150,
             "libCommune": "Lagrave",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8931087297,
+            "longitude": 1.99033789406
         }
     },
     {
         "model": "carte.commune",
         "pk": 128,
         "fields": {
-            "codePostal": 81132,
-            "libCommune": "Guitalens-L'Albar\u00e8de",
+            "codePostal": 81220,
+            "libCommune": "Guitalens-L'Albarède",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6378592707,
+            "longitude": 2.04358289042
         }
     },
     {
         "model": "carte.commune",
         "pk": 129,
         "fields": {
-            "codePostal": 81133,
-            "libCommune": "Lamillari\u00e9",
+            "codePostal": 81120,
+            "libCommune": "Lamillarié",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8550180871,
+            "longitude": 2.15786661498
         }
     },
     {
         "model": "carte.commune",
         "pk": 130,
         "fields": {
-            "codePostal": 81134,
-            "libCommune": "Lamont\u00e9lari\u00e9",
+            "codePostal": 81260,
+            "libCommune": "Lamontélarié",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6201473366,
+            "longitude": 2.6080895123
         }
     },
     {
         "model": "carte.commune",
         "pk": 131,
         "fields": {
-            "codePostal": 81135,
+            "codePostal": 81640,
             "libCommune": "Laparrouquial",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1216197815,
+            "longitude": 2.02846018136
         }
     },
     {
         "model": "carte.commune",
         "pk": 132,
         "fields": {
-            "codePostal": 81136,
+            "codePostal": 81140,
             "libCommune": "Larroque",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0083844325,
+            "longitude": 1.68734477168
         }
     },
     {
         "model": "carte.commune",
         "pk": 133,
         "fields": {
-            "codePostal": 81137,
+            "codePostal": 81260,
             "libCommune": "Lasfaillades",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5636947097,
+            "longitude": 2.50028981055
         }
     },
     {
         "model": "carte.commune",
         "pk": 134,
         "fields": {
-            "codePostal": 81138,
+            "codePostal": 81300,
             "libCommune": "Lasgraisses",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8230864344,
+            "longitude": 2.03526038178
         }
     },
     {
         "model": "carte.commune",
         "pk": 135,
         "fields": {
-            "codePostal": 81139,
+            "codePostal": 81440,
             "libCommune": "Lautrec",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7052468491,
+            "longitude": 2.12929403349
         }
     },
     {
         "model": "carte.commune",
         "pk": 136,
         "fields": {
-            "codePostal": 81140,
+            "codePostal": 81500,
             "libCommune": "Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6895628711,
+            "longitude": 1.79437213708
         }
     },
     {
         "model": "carte.commune",
         "pk": 137,
         "fields": {
-            "codePostal": 81141,
-            "libCommune": "L\u00e9das-et-Penthi\u00e8s",
+            "codePostal": 81340,
+            "libCommune": "Lédas-et-Penthiès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0788993791,
+            "longitude": 2.38301676967
         }
     },
     {
         "model": "carte.commune",
         "pk": 138,
         "fields": {
-            "codePostal": 81142,
+            "codePostal": 81700,
             "libCommune": "Lempaut",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5250362218,
+            "longitude": 2.06781659289
         }
     },
     {
         "model": "carte.commune",
         "pk": 139,
         "fields": {
-            "codePostal": 81143,
+            "codePostal": 81110,
             "libCommune": "Lescout",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5334899853,
+            "longitude": 2.10628478889
         }
     },
     {
         "model": "carte.commune",
         "pk": 140,
         "fields": {
-            "codePostal": 81144,
+            "codePostal": 81380,
             "libCommune": "Lescure-d'Albigeois",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9656164383,
+            "longitude": 2.18230929953
         }
     },
     {
         "model": "carte.commune",
         "pk": 141,
         "fields": {
-            "codePostal": 81145,
+            "codePostal": 81310,
             "libCommune": "Lisle-sur-Tarn",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8974980421,
+            "longitude": 1.78200143861
         }
     },
     {
         "model": "carte.commune",
         "pk": 142,
         "fields": {
-            "codePostal": 81146,
+            "codePostal": 81170,
             "libCommune": "Livers-Cazelles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0494424357,
+            "longitude": 2.00041907308
         }
     },
     {
         "model": "carte.commune",
         "pk": 143,
         "fields": {
-            "codePostal": 81147,
+            "codePostal": 81120,
             "libCommune": "Lombers",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8159438532,
+            "longitude": 2.1438851027
         }
     },
     {
         "model": "carte.commune",
         "pk": 144,
         "fields": {
-            "codePostal": 81148,
+            "codePostal": 81170,
             "libCommune": "Loubers",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0377793598,
+            "longitude": 1.8934533217
         }
     },
     {
         "model": "carte.commune",
         "pk": 145,
         "fields": {
-            "codePostal": 81149,
+            "codePostal": 81800,
             "libCommune": "Loupiac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8241806897,
+            "longitude": 1.78265206515
         }
     },
     {
         "model": "carte.commune",
         "pk": 146,
         "fields": {
-            "codePostal": 81150,
+            "codePostal": 81500,
             "libCommune": "Lugan",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7330225833,
+            "longitude": 1.71750529961
         }
     },
     {
         "model": "carte.commune",
         "pk": 147,
         "fields": {
-            "codePostal": 81151,
+            "codePostal": 81220,
             "libCommune": "Magrin",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.61527201,
+            "longitude": 1.9211779967
         }
     },
     {
         "model": "carte.commune",
         "pk": 148,
         "fields": {
-            "codePostal": 81152,
+            "codePostal": 81130,
             "libCommune": "Mailhoc",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.00390722,
+            "longitude": 2.07332780966
         }
     },
     {
         "model": "carte.commune",
         "pk": 149,
         "fields": {
-            "codePostal": 81154,
+            "codePostal": 81170,
             "libCommune": "Marnaves",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0959603431,
+            "longitude": 1.87162676035
         }
     },
     {
         "model": "carte.commune",
         "pk": 150,
         "fields": {
-            "codePostal": 81156,
+            "codePostal": 81150,
             "libCommune": "Marssac-sur-Tarn",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9102726323,
+            "longitude": 2.03641141101
         }
     },
     {
         "model": "carte.commune",
         "pk": 151,
         "fields": {
-            "codePostal": 81157,
+            "codePostal": 81500,
             "libCommune": "Marzens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6542488768,
+            "longitude": 1.84294854921
         }
     },
     {
@@ -1967,7 +2257,7 @@
         "pk": 152,
         "fields": {
             "codePostal": 81158,
-            "libCommune": "Le Masnau-Massugui\u00e8s",
+            "libCommune": "Le Masnau-Massuguiès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
@@ -1979,819 +2269,945 @@
         "model": "carte.commune",
         "pk": 153,
         "fields": {
-            "codePostal": 81159,
-            "libCommune": "Massac-S\u00e9ran",
+            "codePostal": 81500,
+            "libCommune": "Massac-Séran",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6683120665,
+            "longitude": 1.86258553389
         }
     },
     {
         "model": "carte.commune",
         "pk": 154,
         "fields": {
-            "codePostal": 81160,
+            "codePostal": 81110,
             "libCommune": "Massaguel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4756759795,
+            "longitude": 2.17631948786
         }
     },
     {
         "model": "carte.commune",
         "pk": 155,
         "fields": {
-            "codePostal": 81161,
+            "codePostal": 81250,
             "libCommune": "Massals",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8582915484,
+            "longitude": 2.52110996893
         }
     },
     {
         "model": "carte.commune",
         "pk": 156,
         "fields": {
-            "codePostal": 81162,
+            "codePostal": 81470,
             "libCommune": "Maurens-Scopont",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5965308671,
+            "longitude": 1.81343450611
         }
     },
     {
         "model": "carte.commune",
         "pk": 157,
         "fields": {
-            "codePostal": 81163,
+            "codePostal": 81200,
             "libCommune": "Mazamet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4578780341,
+            "longitude": 2.3885346913
         }
     },
     {
         "model": "carte.commune",
         "pk": 158,
         "fields": {
-            "codePostal": 81164,
-            "libCommune": "M\u00e9zens",
+            "codePostal": 81800,
+            "libCommune": "Mézens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7911506401,
+            "longitude": 1.65853736504
         }
     },
     {
         "model": "carte.commune",
         "pk": 159,
         "fields": {
-            "codePostal": 81165,
+            "codePostal": 81170,
             "libCommune": "Milhars",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1227182576,
+            "longitude": 1.87476688582
         }
     },
     {
         "model": "carte.commune",
         "pk": 160,
         "fields": {
-            "codePostal": 81166,
+            "codePostal": 81130,
             "libCommune": "Milhavet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0326429455,
+            "longitude": 2.02741008603
         }
     },
     {
         "model": "carte.commune",
         "pk": 161,
         "fields": {
-            "codePostal": 81167,
+            "codePostal": 81250,
             "libCommune": "Miolles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8782226811,
+            "longitude": 2.55075875276
         }
     },
     {
         "model": "carte.commune",
         "pk": 162,
         "fields": {
-            "codePostal": 81168,
+            "codePostal": 81190,
             "libCommune": "Mirandol-Bourgnounac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1468118913,
+            "longitude": 2.17074535227
         }
     },
     {
         "model": "carte.commune",
         "pk": 163,
         "fields": {
-            "codePostal": 81169,
-            "libCommune": "Miss\u00e8cle",
+            "codePostal": 81300,
+            "libCommune": "Missècle",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7204559447,
+            "longitude": 1.98643784492
         }
     },
     {
         "model": "carte.commune",
         "pk": 164,
         "fields": {
-            "codePostal": 81170,
-            "libCommune": "Monesti\u00e9s",
+            "codePostal": 81640,
+            "libCommune": "Monestiés",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0787915889,
+            "longitude": 2.09845237087
         }
     },
     {
         "model": "carte.commune",
         "pk": 165,
         "fields": {
-            "codePostal": 81171,
+            "codePostal": 81600,
             "libCommune": "Montans",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.850225684,
+            "longitude": 1.86631554262
         }
     },
     {
         "model": "carte.commune",
         "pk": 166,
         "fields": {
-            "codePostal": 81172,
+            "codePostal": 81190,
             "libCommune": "Montauriol",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0815510672,
+            "longitude": 2.32726239581
         }
     },
     {
         "model": "carte.commune",
         "pk": 167,
         "fields": {
-            "codePostal": 81173,
+            "codePostal": 81500,
             "libCommune": "Montcabrier",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6216995124,
+            "longitude": 1.73631591494
         }
     },
     {
         "model": "carte.commune",
         "pk": 168,
         "fields": {
-            "codePostal": 81174,
+            "codePostal": 81440,
             "libCommune": "Montdragon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7753099488,
+            "longitude": 2.09549518318
         }
     },
     {
         "model": "carte.commune",
         "pk": 169,
         "fields": {
-            "codePostal": 81175,
+            "codePostal": 81630,
             "libCommune": "Montdurausse",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9525325063,
+            "longitude": 1.59348701072
         }
     },
     {
         "model": "carte.commune",
         "pk": 170,
         "fields": {
-            "codePostal": 81176,
+            "codePostal": 81140,
             "libCommune": "Montels",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9645484948,
+            "longitude": 1.88698205993
         }
     },
     {
         "model": "carte.commune",
         "pk": 171,
         "fields": {
-            "codePostal": 81177,
+            "codePostal": 81210,
             "libCommune": "Montfa",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7002321561,
+            "longitude": 2.22942914563
         }
     },
     {
         "model": "carte.commune",
         "pk": 172,
         "fields": {
-            "codePostal": 81178,
+            "codePostal": 81630,
             "libCommune": "Montgaillard",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9080851557,
+            "longitude": 1.60943104266
         }
     },
     {
         "model": "carte.commune",
         "pk": 173,
         "fields": {
-            "codePostal": 81179,
+            "codePostal": 81470,
             "libCommune": "Montgey",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5093604,
+            "longitude": 1.9451968725
         }
     },
     {
         "model": "carte.commune",
         "pk": 174,
         "fields": {
-            "codePostal": 81180,
+            "codePostal": 81190,
             "libCommune": "Montirat",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1584171912,
+            "longitude": 2.092684783
         }
     },
     {
         "model": "carte.commune",
         "pk": 175,
         "fields": {
-            "codePostal": 81181,
+            "codePostal": 81440,
             "libCommune": "Montpinier",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6789611247,
+            "longitude": 2.18996517245
         }
     },
     {
         "model": "carte.commune",
         "pk": 176,
         "fields": {
-            "codePostal": 81182,
-            "libCommune": "Montredon-Labessonni\u00e9",
+            "codePostal": 81360,
+            "libCommune": "Montredon-Labessonnié",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7243034141,
+            "longitude": 2.32124891411
         }
     },
     {
         "model": "carte.commune",
         "pk": 177,
         "fields": {
-            "codePostal": 81183,
+            "codePostal": 81120,
             "libCommune": "Mont-Roc",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8056390894,
+            "longitude": 2.37632529774
         }
     },
     {
         "model": "carte.commune",
         "pk": 178,
         "fields": {
-            "codePostal": 81184,
+            "codePostal": 81170,
             "libCommune": "Montrosier",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1302381155,
+            "longitude": 1.84091338428
         }
     },
     {
         "model": "carte.commune",
         "pk": 179,
         "fields": {
-            "codePostal": 81185,
+            "codePostal": 81630,
             "libCommune": "Montvalen",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8568846629,
+            "longitude": 1.59279252787
         }
     },
     {
         "model": "carte.commune",
         "pk": 180,
         "fields": {
-            "codePostal": 81186,
-            "libCommune": "Moular\u00e8s",
+            "codePostal": 81190,
+            "libCommune": "Moularès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0770712635,
+            "longitude": 2.28567831942
         }
     },
     {
         "model": "carte.commune",
         "pk": 181,
         "fields": {
-            "codePostal": 81187,
-            "libCommune": "Moulayr\u00e8s",
+            "codePostal": 81300,
+            "libCommune": "Moulayrès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7043614884,
+            "longitude": 2.02400479753
         }
     },
     {
         "model": "carte.commune",
         "pk": 182,
         "fields": {
-            "codePostal": 81188,
+            "codePostal": 81320,
             "libCommune": "Moulin-Mage",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7198358431,
+            "longitude": 2.77600372304
         }
     },
     {
         "model": "carte.commune",
         "pk": 183,
         "fields": {
-            "codePostal": 81189,
+            "codePostal": 81470,
             "libCommune": "Mouzens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5319509322,
+            "longitude": 1.88969318814
         }
     },
     {
         "model": "carte.commune",
         "pk": 184,
         "fields": {
-            "codePostal": 81190,
+            "codePostal": 81430,
             "libCommune": "Mouzieys-Teulet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8784071137,
+            "longitude": 2.27301087499
         }
     },
     {
         "model": "carte.commune",
         "pk": 185,
         "fields": {
-            "codePostal": 81191,
+            "codePostal": 81170,
             "libCommune": "Mouzieys-Panens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1054127277,
+            "longitude": 1.93295083712
         }
     },
     {
         "model": "carte.commune",
         "pk": 186,
         "fields": {
-            "codePostal": 81192,
-            "libCommune": "Murat-sur-V\u00e8bre",
+            "codePostal": 81320,
+            "libCommune": "Murat-sur-Vèbre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6933887734,
+            "longitude": 2.86020880416
         }
     },
     {
         "model": "carte.commune",
         "pk": 187,
         "fields": {
-            "codePostal": 81193,
+            "codePostal": 81320,
             "libCommune": "Nages",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6552500553,
+            "longitude": 2.77047071687
         }
     },
     {
         "model": "carte.commune",
         "pk": 188,
         "fields": {
-            "codePostal": 81195,
-            "libCommune": "Nav\u00e8s",
+            "codePostal": 81710,
+            "libCommune": "Navès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5644376165,
+            "longitude": 2.21838218726
         }
     },
     {
         "model": "carte.commune",
         "pk": 189,
         "fields": {
-            "codePostal": 81196,
+            "codePostal": 81490,
             "libCommune": "Noailhac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5760317808,
+            "longitude": 2.35409410035
         }
     },
     {
         "model": "carte.commune",
         "pk": 190,
         "fields": {
-            "codePostal": 81197,
+            "codePostal": 81170,
             "libCommune": "Noailles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0122054489,
+            "longitude": 1.99020662698
         }
     },
     {
         "model": "carte.commune",
         "pk": 191,
         "fields": {
-            "codePostal": 81198,
+            "codePostal": 81120,
             "libCommune": "Orban",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8372858734,
+            "longitude": 2.0783975338
         }
     },
     {
         "model": "carte.commune",
         "pk": 192,
         "fields": {
-            "codePostal": 81199,
-            "libCommune": "Padi\u00e8s",
+            "codePostal": 81340,
+            "libCommune": "Padiès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0448721385,
+            "longitude": 2.36414366845
         }
     },
     {
         "model": "carte.commune",
         "pk": 193,
         "fields": {
-            "codePostal": 81200,
+            "codePostal": 81700,
             "libCommune": "Palleville",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5037421049,
+            "longitude": 1.9961127405
         }
     },
     {
         "model": "carte.commune",
         "pk": 194,
         "fields": {
-            "codePostal": 81201,
+            "codePostal": 81190,
             "libCommune": "Pampelonne",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1158346297,
+            "longitude": 2.24230073337
         }
     },
     {
         "model": "carte.commune",
         "pk": 195,
         "fields": {
-            "codePostal": 81202,
+            "codePostal": 81310,
             "libCommune": "Parisot",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8046304256,
+            "longitude": 1.83642655485
         }
     },
     {
         "model": "carte.commune",
         "pk": 196,
         "fields": {
-            "codePostal": 81203,
+            "codePostal": 81250,
             "libCommune": "Paulinet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8471083699,
+            "longitude": 2.43945006878
         }
     },
     {
         "model": "carte.commune",
         "pk": 197,
         "fields": {
-            "codePostal": 81204,
+            "codePostal": 81660,
             "libCommune": "Payrin-Augmontel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.538512955,
+            "longitude": 2.34476965371
         }
     },
     {
         "model": "carte.commune",
         "pk": 198,
         "fields": {
-            "codePostal": 81205,
-            "libCommune": "P\u00e9chaudier",
+            "codePostal": 81470,
+            "libCommune": "Péchaudier",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5445327743,
+            "longitude": 1.94651910659
         }
     },
     {
         "model": "carte.commune",
         "pk": 199,
         "fields": {
-            "codePostal": 81206,
+            "codePostal": 81140,
             "libCommune": "Penne",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.083378684,
+            "longitude": 1.72222569874
         }
     },
     {
         "model": "carte.commune",
         "pk": 200,
         "fields": {
-            "codePostal": 81207,
+            "codePostal": 81440,
             "libCommune": "Peyregoux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7005423286,
+            "longitude": 2.19477882918
         }
     },
     {
         "model": "carte.commune",
         "pk": 201,
         "fields": {
-            "codePostal": 81208,
+            "codePostal": 81310,
             "libCommune": "Peyrole",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8140246495,
+            "longitude": 1.89716126791
         }
     },
     {
         "model": "carte.commune",
         "pk": 202,
         "fields": {
-            "codePostal": 81209,
+            "codePostal": 81660,
             "libCommune": "Pont-de-Larn",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5308469607,
+            "longitude": 2.40980470346
         }
     },
     {
         "model": "carte.commune",
         "pk": 203,
         "fields": {
-            "codePostal": 81210,
+            "codePostal": 81700,
             "libCommune": "Poudis",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5242225907,
+            "longitude": 1.98138103273
         }
     },
     {
         "model": "carte.commune",
         "pk": 204,
         "fields": {
-            "codePostal": 81211,
+            "codePostal": 81120,
             "libCommune": "Poulan-Pouzols",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8582952155,
+            "longitude": 2.10793696053
         }
     },
     {
         "model": "carte.commune",
         "pk": 205,
         "fields": {
-            "codePostal": 81212,
+            "codePostal": 81220,
             "libCommune": "Prades",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6119091506,
+            "longitude": 1.9714190668
         }
     },
     {
         "model": "carte.commune",
         "pk": 206,
         "fields": {
-            "codePostal": 81213,
+            "codePostal": 81500,
             "libCommune": "Pratviel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.638704181,
+            "longitude": 1.88490760875
         }
     },
     {
         "model": "carte.commune",
         "pk": 207,
         "fields": {
-            "codePostal": 81214,
-            "libCommune": "Pu\u00e9choursi",
+            "codePostal": 81470,
+            "libCommune": "Puéchoursi",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5139823585,
+            "longitude": 1.90748676323
         }
     },
     {
         "model": "carte.commune",
         "pk": 208,
         "fields": {
-            "codePostal": 81215,
+            "codePostal": 81390,
             "libCommune": "Puybegon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7801538016,
+            "longitude": 1.89684517296
         }
     },
     {
         "model": "carte.commune",
         "pk": 209,
         "fields": {
-            "codePostal": 81216,
+            "codePostal": 81440,
             "libCommune": "Puycalvel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6838355288,
+            "longitude": 2.07099624199
         }
     },
     {
         "model": "carte.commune",
         "pk": 210,
         "fields": {
-            "codePostal": 81217,
+            "codePostal": 81140,
             "libCommune": "Puycelsi",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9765161784,
+            "longitude": 1.70709054548
         }
     },
     {
         "model": "carte.commune",
         "pk": 211,
         "fields": {
-            "codePostal": 81218,
+            "codePostal": 81990,
             "libCommune": "Puygouzon",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8884573228,
+            "longitude": 2.16955643928
         }
     },
     {
         "model": "carte.commune",
         "pk": 212,
         "fields": {
-            "codePostal": 81219,
+            "codePostal": 81700,
             "libCommune": "Puylaurens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5824524921,
+            "longitude": 2.01685800368
         }
     },
     {
         "model": "carte.commune",
         "pk": 213,
         "fields": {
-            "codePostal": 81220,
+            "codePostal": 81800,
             "libCommune": "Rabastens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8484040939,
+            "longitude": 1.71495143196
         }
     },
     {
         "model": "carte.commune",
         "pk": 214,
         "fields": {
-            "codePostal": 81221,
+            "codePostal": 81330,
             "libCommune": "Rayssac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8037266652,
+            "longitude": 2.42461409466
         }
     },
     {
         "model": "carte.commune",
         "pk": 215,
         "fields": {
-            "codePostal": 81222,
-            "libCommune": "R\u00e9almont",
+            "codePostal": 81120,
+            "libCommune": "Réalmont",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7799765873,
+            "longitude": 2.19017910647
         }
     },
     {
@@ -2824,91 +3240,105 @@
         "model": "carte.commune",
         "pk": 218,
         "fields": {
-            "codePostal": 81225,
-            "libCommune": "Rivi\u00e8res",
+            "codePostal": 81600,
+            "libCommune": "Rivières",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9157732969,
+            "longitude": 1.96947284122
         }
     },
     {
         "model": "carte.commune",
         "pk": 219,
         "fields": {
-            "codePostal": 81227,
+            "codePostal": 81210,
             "libCommune": "Roquecourbe",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6726544083,
+            "longitude": 2.27758521528
         }
     },
     {
         "model": "carte.commune",
         "pk": 220,
         "fields": {
-            "codePostal": 81228,
+            "codePostal": 81800,
             "libCommune": "Roquemaure",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8230103992,
+            "longitude": 1.61753468648
         }
     },
     {
         "model": "carte.commune",
         "pk": 221,
         "fields": {
-            "codePostal": 81229,
+            "codePostal": 81470,
             "libCommune": "Roquevidal",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6227131725,
+            "longitude": 1.86053264834
         }
     },
     {
         "model": "carte.commune",
         "pk": 222,
         "fields": {
-            "codePostal": 81230,
-            "libCommune": "Rosi\u00e8res",
+            "codePostal": 81400,
+            "libCommune": "Rosières",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0411555772,
+            "longitude": 2.19724002021
         }
     },
     {
         "model": "carte.commune",
         "pk": 223,
         "fields": {
-            "codePostal": 81231,
+            "codePostal": 81240,
             "libCommune": "Rouairoux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4951010568,
+            "longitude": 2.56621532287
         }
     },
     {
         "model": "carte.commune",
         "pk": 224,
         "fields": {
-            "codePostal": 81232,
+            "codePostal": 81150,
             "libCommune": "Rouffiac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8826639291,
+            "longitude": 2.07172030466
         }
     },
     {
@@ -2916,7 +3346,7 @@
         "pk": 225,
         "fields": {
             "codePostal": 81233,
-            "libCommune": "Terre-de-Bancali\u00e9",
+            "libCommune": "Terre-de-Bancalié",
             "population2535": null,
             "population3545": null,
             "population4555": null,
@@ -2928,559 +3358,645 @@
         "model": "carte.commune",
         "pk": 226,
         "fields": {
-            "codePostal": 81234,
+            "codePostal": 81140,
             "libCommune": "Roussayrolles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0939494388,
+            "longitude": 1.8260511519
         }
     },
     {
         "model": "carte.commune",
         "pk": 227,
         "fields": {
-            "codePostal": 81235,
+            "codePostal": 81290,
             "libCommune": "Saint-Affrique-les-Montagnes",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5281225419,
+            "longitude": 2.20135060333
         }
     },
     {
         "model": "carte.commune",
         "pk": 228,
         "fields": {
-            "codePostal": 81236,
+            "codePostal": 81500,
             "libCommune": "Saint-Agnan",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6956511222,
+            "longitude": 1.74062164664
         }
     },
     {
         "model": "carte.commune",
         "pk": 229,
         "fields": {
-            "codePostal": 81237,
+            "codePostal": 81110,
             "libCommune": "Saint-Amancet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4634376908,
+            "longitude": 2.10916260669
         }
     },
     {
         "model": "carte.commune",
         "pk": 230,
         "fields": {
-            "codePostal": 81238,
+            "codePostal": 81240,
             "libCommune": "Saint-Amans-Soult",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4644785772,
+            "longitude": 2.47706341258
         }
     },
     {
         "model": "carte.commune",
         "pk": 231,
         "fields": {
-            "codePostal": 81239,
+            "codePostal": 81240,
             "libCommune": "Saint-Amans-Valtoret",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.506155075,
+            "longitude": 2.50072448307
         }
     },
     {
         "model": "carte.commune",
         "pk": 232,
         "fields": {
-            "codePostal": 81240,
-            "libCommune": "Saint-Andr\u00e9",
+            "codePostal": 81250,
+            "libCommune": "Saint-André",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9326309582,
+            "longitude": 2.45817547307
         }
     },
     {
         "model": "carte.commune",
         "pk": 233,
         "fields": {
-            "codePostal": 81242,
+            "codePostal": 81110,
             "libCommune": "Saint-Avit",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5156735271,
+            "longitude": 2.11791103076
         }
     },
     {
         "model": "carte.commune",
         "pk": 234,
         "fields": {
-            "codePostal": 81243,
+            "codePostal": 81140,
             "libCommune": "Saint-Beauzile",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0274349161,
+            "longitude": 1.81723438906
         }
     },
     {
         "model": "carte.commune",
         "pk": 235,
         "fields": {
-            "codePostal": 81244,
-            "libCommune": "Saint-Beno\u00eet-de-Carmaux",
+            "codePostal": 81400,
+            "libCommune": "Saint-Benoît-de-Carmaux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0544138951,
+            "longitude": 2.12958421961
         }
     },
     {
         "model": "carte.commune",
         "pk": 236,
         "fields": {
-            "codePostal": 81245,
+            "codePostal": 81190,
             "libCommune": "Saint-Christophe",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1526839554,
+            "longitude": 2.0435980246
         }
     },
     {
         "model": "carte.commune",
         "pk": 237,
         "fields": {
-            "codePostal": 81246,
-            "libCommune": "Sainte-C\u00e9cile-du-Cayrou",
+            "codePostal": 81140,
+            "libCommune": "Sainte-Cécile-du-Cayrou",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0018082654,
+            "longitude": 1.80559449088
         }
     },
     {
         "model": "carte.commune",
         "pk": 238,
         "fields": {
-            "codePostal": 81247,
+            "codePostal": 81340,
             "libCommune": "Saint-Cirgue",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9705143368,
+            "longitude": 2.37166365439
         }
     },
     {
         "model": "carte.commune",
         "pk": 239,
         "fields": {
-            "codePostal": 81248,
+            "codePostal": 81390,
             "libCommune": "Saint-Gauzens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7421086865,
+            "longitude": 1.88132892487
         }
     },
     {
         "model": "carte.commune",
         "pk": 240,
         "fields": {
-            "codePostal": 81249,
+            "codePostal": 81190,
             "libCommune": "Sainte-Gemme",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0888853221,
+            "longitude": 2.19609081106
         }
     },
     {
         "model": "carte.commune",
         "pk": 241,
         "fields": {
-            "codePostal": 81250,
+            "codePostal": 81440,
             "libCommune": "Saint-Genest-de-Contest",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7619862953,
+            "longitude": 2.14681126259
         }
     },
     {
         "model": "carte.commune",
         "pk": 242,
         "fields": {
-            "codePostal": 81251,
-            "libCommune": "Saint-Germain-des-Pr\u00e9s",
+            "codePostal": 81700,
+            "libCommune": "Saint-Germain-des-Prés",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5628494713,
+            "longitude": 2.07801085173
         }
     },
     {
         "model": "carte.commune",
         "pk": 243,
         "fields": {
-            "codePostal": 81252,
+            "codePostal": 81210,
             "libCommune": "Saint-Germier",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6768633717,
+            "longitude": 2.23011176634
         }
     },
     {
         "model": "carte.commune",
         "pk": 244,
         "fields": {
-            "codePostal": 81253,
-            "libCommune": "Saint-Gr\u00e9goire",
+            "codePostal": 81350,
+            "libCommune": "Saint-Grégoire",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9551674192,
+            "longitude": 2.26106441809
         }
     },
     {
         "model": "carte.commune",
         "pk": 245,
         "fields": {
-            "codePostal": 81254,
+            "codePostal": 81350,
             "libCommune": "Saint-Jean-de-Marcel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0562910218,
+            "longitude": 2.24878070436
         }
     },
     {
         "model": "carte.commune",
         "pk": 246,
         "fields": {
-            "codePostal": 81255,
+            "codePostal": 81500,
             "libCommune": "Saint-Jean-de-Rives",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7346247843,
+            "longitude": 1.76633924309
         }
     },
     {
         "model": "carte.commune",
         "pk": 247,
         "fields": {
-            "codePostal": 81256,
+            "codePostal": 81210,
             "libCommune": "Saint-Jean-de-Vals",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6871787236,
+            "longitude": 2.25694923614
         }
     },
     {
         "model": "carte.commune",
         "pk": 248,
         "fields": {
-            "codePostal": 81257,
-            "libCommune": "Saint-Ju\u00e9ry",
+            "codePostal": 81160,
+            "libCommune": "Saint-Juéry",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9385571465,
+            "longitude": 2.22614415314
         }
     },
     {
         "model": "carte.commune",
         "pk": 249,
         "fields": {
-            "codePostal": 81258,
+            "codePostal": 81440,
             "libCommune": "Saint-Julien-du-Puy",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.751631087,
+            "longitude": 2.08059603326
         }
     },
     {
         "model": "carte.commune",
         "pk": 250,
         "fields": {
-            "codePostal": 81259,
-            "libCommune": "Saint-Julien-Gaul\u00e8ne",
+            "codePostal": 81340,
+            "libCommune": "Saint-Julien-Gaulène",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9961595825,
+            "longitude": 2.34196813906
         }
     },
     {
         "model": "carte.commune",
         "pk": 251,
         "fields": {
-            "codePostal": 81261,
-            "libCommune": "Saint-Lieux-l\u00e8s-Lavaur",
+            "codePostal": 81500,
+            "libCommune": "Saint-Lieux-lès-Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7554264288,
+            "longitude": 1.74752680249
         }
     },
     {
         "model": "carte.commune",
         "pk": 252,
         "fields": {
-            "codePostal": 81262,
+            "codePostal": 81170,
             "libCommune": "Saint-Marcel-Campes",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.083875553,
+            "longitude": 2.00175106626
         }
     },
     {
         "model": "carte.commune",
         "pk": 253,
         "fields": {
-            "codePostal": 81263,
-            "libCommune": "Saint-Martin-Lagu\u00e9pie",
+            "codePostal": 81170,
+            "libCommune": "Saint-Martin-Laguépie",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1349838436,
+            "longitude": 1.96022083037
         }
     },
     {
         "model": "carte.commune",
         "pk": 254,
         "fields": {
-            "codePostal": 81264,
-            "libCommune": "Saint-Michel-Labadi\u00e9",
+            "codePostal": 81340,
+            "libCommune": "Saint-Michel-Labadié",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0067895923,
+            "longitude": 2.42805040105
         }
     },
     {
         "model": "carte.commune",
         "pk": 255,
         "fields": {
-            "codePostal": 81265,
+            "codePostal": 81140,
             "libCommune": "Saint-Michel-de-Vax",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1085463735,
+            "longitude": 1.80659770648
         }
     },
     {
         "model": "carte.commune",
         "pk": 256,
         "fields": {
-            "codePostal": 81266,
+            "codePostal": 81220,
             "libCommune": "Saint-Paul-Cap-de-Joux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.635057866,
+            "longitude": 1.98923840323
         }
     },
     {
         "model": "carte.commune",
         "pk": 257,
         "fields": {
-            "codePostal": 81267,
+            "codePostal": 81330,
             "libCommune": "Saint-Pierre-de-Trivisy",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.754059506,
+            "longitude": 2.44562540702
         }
     },
     {
         "model": "carte.commune",
         "pk": 258,
         "fields": {
-            "codePostal": 81268,
-            "libCommune": "Saint-Salvi-de-Carcav\u00e8s",
+            "codePostal": 81530,
+            "libCommune": "Saint-Salvi-de-Carcavès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7975079038,
+            "longitude": 2.59502148525
         }
     },
     {
         "model": "carte.commune",
         "pk": 259,
         "fields": {
-            "codePostal": 81269,
+            "codePostal": 81490,
             "libCommune": "Saint-Salvy-de-la-Balme",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6117421353,
+            "longitude": 2.37969793328
         }
     },
     {
         "model": "carte.commune",
         "pk": 260,
         "fields": {
-            "codePostal": 81270,
-            "libCommune": "Saint-Sernin-l\u00e8s-Lavaur",
+            "codePostal": 81700,
+            "libCommune": "Saint-Sernin-lès-Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.543395503,
+            "longitude": 1.97224589323
         }
     },
     {
         "model": "carte.commune",
         "pk": 261,
         "fields": {
-            "codePostal": 81271,
+            "codePostal": 81370,
             "libCommune": "Saint-Sulpice-la-Pointe",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7589885163,
+            "longitude": 1.68659997767
         }
     },
     {
         "model": "carte.commune",
         "pk": 262,
         "fields": {
-            "codePostal": 81272,
+            "codePostal": 81630,
             "libCommune": "Saint-Urcisse",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9335030171,
+            "longitude": 1.60695307526
         }
     },
     {
         "model": "carte.commune",
         "pk": 263,
         "fields": {
-            "codePostal": 81273,
-            "libCommune": "Sa\u00efx",
+            "codePostal": 81710,
+            "libCommune": "Saïx",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5842195914,
+            "longitude": 2.17044847109
         }
     },
     {
         "model": "carte.commune",
         "pk": 264,
         "fields": {
-            "codePostal": 81274,
-            "libCommune": "Sali\u00e8s",
+            "codePostal": 81990,
+            "libCommune": "Saliès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8859141044,
+            "longitude": 2.13293354556
         }
     },
     {
         "model": "carte.commune",
         "pk": 265,
         "fields": {
-            "codePostal": 81275,
+            "codePostal": 81640,
             "libCommune": "Salles",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0752776233,
+            "longitude": 2.04296724146
         }
     },
     {
         "model": "carte.commune",
         "pk": 266,
         "fields": {
-            "codePostal": 81276,
+            "codePostal": 81630,
             "libCommune": "Salvagnac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9201151478,
+            "longitude": 1.67981306162
         }
     },
     {
         "model": "carte.commune",
         "pk": 267,
         "fields": {
-            "codePostal": 81277,
+            "codePostal": 81350,
             "libCommune": "Saussenac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9932298671,
+            "longitude": 2.2548403386
         }
     },
     {
         "model": "carte.commune",
         "pk": 268,
         "fields": {
-            "codePostal": 81278,
+            "codePostal": 81240,
             "libCommune": "Sauveterre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4536167726,
+            "longitude": 2.55991346733
         }
     },
     {
@@ -3488,7 +4004,7 @@
         "pk": 269,
         "fields": {
             "codePostal": 81279,
-            "libCommune": "La Sauzi\u00e8re-Saint-Jean",
+            "libCommune": "La Sauzière-Saint-Jean",
             "population2535": null,
             "population3545": null,
             "population4555": null,
@@ -3501,7 +4017,7 @@
         "pk": 270,
         "fields": {
             "codePostal": 81280,
-            "libCommune": "Le S\u00e9gur",
+            "libCommune": "Le Ségur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
@@ -3513,39 +4029,45 @@
         "model": "carte.commune",
         "pk": 271,
         "fields": {
-            "codePostal": 81281,
-            "libCommune": "S\u00e9malens",
+            "codePostal": 81570,
+            "libCommune": "Sémalens",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.598998518,
+            "longitude": 2.10929167449
         }
     },
     {
         "model": "carte.commune",
         "pk": 272,
         "fields": {
-            "codePostal": 81282,
+            "codePostal": 81530,
             "libCommune": "Senaux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7659564788,
+            "longitude": 2.61566505316
         }
     },
     {
         "model": "carte.commune",
         "pk": 273,
         "fields": {
-            "codePostal": 81283,
+            "codePostal": 81600,
             "libCommune": "Senouillac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.947412308,
+            "longitude": 1.95119521002
         }
     },
     {
@@ -3565,338 +4087,390 @@
         "model": "carte.commune",
         "pk": 275,
         "fields": {
-            "codePostal": 81285,
-            "libCommune": "S\u00e9r\u00e9nac",
+            "codePostal": 81350,
+            "libCommune": "Sérénac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9589302642,
+            "longitude": 2.32732633415
         }
     },
     {
         "model": "carte.commune",
         "pk": 276,
         "fields": {
-            "codePostal": 81286,
-            "libCommune": "Servi\u00e8s",
+            "codePostal": 81220,
+            "libCommune": "Serviès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6653039824,
+            "longitude": 2.03248661491
         }
     },
     {
         "model": "carte.commune",
         "pk": 277,
         "fields": {
-            "codePostal": 81287,
+            "codePostal": 81120,
             "libCommune": "Sieurac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8097363863,
+            "longitude": 2.08715323325
         }
     },
     {
         "model": "carte.commune",
         "pk": 278,
         "fields": {
-            "codePostal": 81288,
-            "libCommune": "Sor\u00e8ze",
+            "codePostal": 81540,
+            "libCommune": "Sorèze",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4412492469,
+            "longitude": 2.08031337654
         }
     },
     {
         "model": "carte.commune",
         "pk": 279,
         "fields": {
-            "codePostal": 81289,
+            "codePostal": 81580,
             "libCommune": "Soual",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5511250266,
+            "longitude": 2.12888668782
         }
     },
     {
         "model": "carte.commune",
         "pk": 280,
         "fields": {
-            "codePostal": 81290,
+            "codePostal": 81170,
             "libCommune": "Souel",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0347194017,
+            "longitude": 1.96267269811
         }
     },
     {
         "model": "carte.commune",
         "pk": 281,
         "fields": {
-            "codePostal": 81291,
-            "libCommune": "Ta\u00efx",
+            "codePostal": 81130,
+            "libCommune": "Taïx",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.009592574,
+            "longitude": 2.11973456275
         }
     },
     {
         "model": "carte.commune",
         "pk": 282,
         "fields": {
-            "codePostal": 81292,
+            "codePostal": 81190,
             "libCommune": "Tanus",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1080524235,
+            "longitude": 2.30592694814
         }
     },
     {
         "model": "carte.commune",
         "pk": 283,
         "fields": {
-            "codePostal": 81293,
+            "codePostal": 81630,
             "libCommune": "Tauriac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 32.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8795465115,
+            "longitude": 1.59365631219
         }
     },
     {
         "model": "carte.commune",
         "pk": 284,
         "fields": {
-            "codePostal": 81294,
-            "libCommune": "T\u00e9cou",
+            "codePostal": 81600,
+            "libCommune": "Técou",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8433118928,
+            "longitude": 1.93529190709
         }
     },
     {
         "model": "carte.commune",
         "pk": 285,
         "fields": {
-            "codePostal": 81295,
+            "codePostal": 81120,
             "libCommune": "Teillet",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8441490915,
+            "longitude": 2.34648455097
         }
     },
     {
         "model": "carte.commune",
         "pk": 286,
         "fields": {
-            "codePostal": 81297,
+            "codePostal": 81150,
             "libCommune": "Terssac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.92257156,
+            "longitude": 2.06910358338
         }
     },
     {
         "model": "carte.commune",
         "pk": 287,
         "fields": {
-            "codePostal": 81298,
+            "codePostal": 81500,
             "libCommune": "Teulat",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.636472694,
+            "longitude": 1.71125634888
         }
     },
     {
         "model": "carte.commune",
         "pk": 288,
         "fields": {
-            "codePostal": 81299,
+            "codePostal": 81220,
             "libCommune": "Teyssode",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.646080345,
+            "longitude": 1.92563367726
         }
     },
     {
         "model": "carte.commune",
         "pk": 289,
         "fields": {
-            "codePostal": 81300,
+            "codePostal": 81170,
             "libCommune": "Tonnac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0717430834,
+            "longitude": 1.85301094203
         }
     },
     {
         "model": "carte.commune",
         "pk": 290,
         "fields": {
-            "codePostal": 81302,
-            "libCommune": "Tr\u00e9ban",
+            "codePostal": 81190,
+            "libCommune": "Tréban",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0915936004,
+            "longitude": 2.3448678628
         }
     },
     {
         "model": "carte.commune",
         "pk": 291,
         "fields": {
-            "codePostal": 81303,
-            "libCommune": "Tr\u00e9bas",
+            "codePostal": 81340,
+            "libCommune": "Trébas",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9548189483,
+            "longitude": 2.48899274991
         }
     },
     {
         "model": "carte.commune",
         "pk": 292,
         "fields": {
-            "codePostal": 81304,
-            "libCommune": "Tr\u00e9vien",
+            "codePostal": 81190,
+            "libCommune": "Trévien",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.1078808594,
+            "longitude": 2.1204609055
         }
     },
     {
         "model": "carte.commune",
         "pk": 293,
         "fields": {
-            "codePostal": 81305,
+            "codePostal": 81330,
             "libCommune": "Vabre",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7055461062,
+            "longitude": 2.42328565025
         }
     },
     {
         "model": "carte.commune",
         "pk": 294,
         "fields": {
-            "codePostal": 81306,
-            "libCommune": "Valderi\u00e8s",
+            "codePostal": 81350,
+            "libCommune": "Valderiès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0186880847,
+            "longitude": 2.23180106024
         }
     },
     {
         "model": "carte.commune",
         "pk": 295,
         "fields": {
-            "codePostal": 81307,
+            "codePostal": 81090,
             "libCommune": "Valdurenque",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5713585994,
+            "longitude": 2.3109213574
         }
     },
     {
         "model": "carte.commune",
         "pk": 296,
         "fields": {
-            "codePostal": 81308,
+            "codePostal": 81340,
             "libCommune": "Valence-d'Albigeois",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0155454064,
+            "longitude": 2.3857453557
         }
     },
     {
         "model": "carte.commune",
         "pk": 297,
         "fields": {
-            "codePostal": 81309,
+            "codePostal": 81140,
             "libCommune": "Vaour",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.070490584,
+            "longitude": 1.80207559018
         }
     },
     {
         "model": "carte.commune",
         "pk": 298,
         "fields": {
-            "codePostal": 81310,
+            "codePostal": 81500,
             "libCommune": "Veilhes",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6178149408,
+            "longitude": 1.81786230309
         }
     },
     {
         "model": "carte.commune",
         "pk": 299,
         "fields": {
-            "codePostal": 81311,
-            "libCommune": "V\u00e9n\u00e8s",
+            "codePostal": 81440,
+            "libCommune": "Vénès",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7373706752,
+            "longitude": 2.19476004846
         }
     },
     {
         "model": "carte.commune",
         "pk": 300,
         "fields": {
-            "codePostal": 81312,
+            "codePostal": 81110,
             "libCommune": "Verdalle",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.4967627255,
+            "longitude": 2.17944315605
         }
     },
     {
@@ -3916,91 +4490,105 @@
         "model": "carte.commune",
         "pk": 302,
         "fields": {
-            "codePostal": 81314,
+            "codePostal": 81530,
             "libCommune": "Viane",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.7463791863,
+            "longitude": 2.58683700675
         }
     },
     {
         "model": "carte.commune",
         "pk": 303,
         "fields": {
-            "codePostal": 81315,
+            "codePostal": 81570,
             "libCommune": "Vielmur-sur-Agout",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6274174186,
+            "longitude": 2.10074049718
         }
     },
     {
         "model": "carte.commune",
         "pk": 304,
         "fields": {
-            "codePostal": 81316,
+            "codePostal": 81140,
             "libCommune": "Vieux",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9964922909,
+            "longitude": 1.86610930745
         }
     },
     {
         "model": "carte.commune",
         "pk": 305,
         "fields": {
-            "codePostal": 81317,
+            "codePostal": 81430,
             "libCommune": "Villefranche-d'Albigeois",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.8923990872,
+            "longitude": 2.32246933503
         }
     },
     {
         "model": "carte.commune",
         "pk": 306,
         "fields": {
-            "codePostal": 81318,
-            "libCommune": "Villeneuve-l\u00e8s-Lavaur",
+            "codePostal": 81500,
+            "libCommune": "Villeneuve-lès-Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6007072849,
+            "longitude": 1.78331121274
         }
     },
     {
         "model": "carte.commune",
         "pk": 307,
         "fields": {
-            "codePostal": 81319,
-            "libCommune": "Villeneuve-sur-V\u00e8re",
+            "codePostal": 81130,
+            "libCommune": "Villeneuve-sur-Vère",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0063451197,
+            "longitude": 2.03043286247
         }
     },
     {
         "model": "carte.commune",
         "pk": 308,
         "fields": {
-            "codePostal": 81320,
+            "codePostal": 81170,
             "libCommune": "Vindrac-Alayrac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 72.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0596168532,
+            "longitude": 1.90210640065
         }
     },
     {
@@ -4020,65 +4608,75 @@
         "model": "carte.commune",
         "pk": 310,
         "fields": {
-            "codePostal": 81322,
+            "codePostal": 81640,
             "libCommune": "Virac",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 60.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 44.0426130975,
+            "longitude": 2.05366411688
         }
     },
     {
         "model": "carte.commune",
         "pk": 311,
         "fields": {
-            "codePostal": 81323,
+            "codePostal": 81220,
             "libCommune": "Viterbe",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.677590198,
+            "longitude": 1.91623680192
         }
     },
     {
         "model": "carte.commune",
         "pk": 312,
         "fields": {
-            "codePostal": 81324,
-            "libCommune": "Viviers-l\u00e8s-Lavaur",
+            "codePostal": 81500,
+            "libCommune": "Viviers-lès-Lavaur",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.6309479905,
+            "longitude": 1.79117670514
         }
     },
     {
         "model": "carte.commune",
         "pk": 313,
         "fields": {
-            "codePostal": 81325,
-            "libCommune": "Viviers-l\u00e8s-Montagnes",
+            "codePostal": 81290,
+            "libCommune": "Viviers-lès-Montagnes",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.5498302673,
+            "longitude": 2.17556071709
         }
     },
     {
         "model": "carte.commune",
         "pk": 314,
         "fields": {
-            "codePostal": 81326,
+            "codePostal": 81150,
             "libCommune": "Sainte-Croix",
             "population2535": null,
             "population3545": null,
             "population4555": null,
             "demandeSoin": 47.0,
-            "departement": 1
+            "departement": 1,
+            "latitude": 43.9703149708,
+            "longitude": 2.07210937838
         }
     }
 ]

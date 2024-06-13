@@ -18,6 +18,8 @@ class Commune(models.Model):
     population4555 = models.IntegerField(null=True)
     demandeSoin = models.CharField(max_length=120, default='50')
     departement = models.ForeignKey(Departement, on_delete=models.CASCADE)
+    latitude = models.CharField(max_length=120, null=True)
+    longitude = models.CharField(max_length=120, null=True)
 
 class PonDist(models.Model):
     idPonDist = models.AutoField(primary_key=True)

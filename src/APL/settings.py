@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'livereload',
     'django.contrib.staticfiles',
     'django_bootstrap5',
+    'djgeojson',
+    'leaflet',
 
     'carte',
 ]

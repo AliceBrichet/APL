@@ -7,6 +7,7 @@
 {% block styles %} 
 <link rel="stylesheet" href="{% static 'css/leaflet.css' %}">
 <script src="{% static 'script/leaflet.js' %}"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 {% endblock %}
 
 
@@ -34,7 +35,7 @@
                         Profession
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Action</a>
+                    <a class="dropdown-item" href="{% url 'carte' option="Médecin généraliste" %}">Médecin généraliste</a>
                     <a class="dropdown-item" href="#">Another action</a>
                     <a class="dropdown-item" href="#">Something else here</a>
                     </div>

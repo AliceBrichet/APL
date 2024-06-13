@@ -1,4 +1,6 @@
 {% load static %}
+{% load geojson_tags %}
+{% load leaflet_tags %}
 <!DOCTYPE html>
 <html lang="fr">
   <head>
@@ -21,7 +23,10 @@
    
   </head>
 
-  <header></header>
+  <header>
+    {% leaflet_js %}
+    {% leaflet_css %}
+  </header>
 
   <body>
     <div class="container-fluid ">

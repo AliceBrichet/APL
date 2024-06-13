@@ -22,7 +22,7 @@ from .views import accueil , carte, stats, compte
 
 urlpatterns = [
     path('', accueil, name="accueil"),
-    path('carte/', carte, name="carte"),
+    path('carte/<str:option>', carte, name="carte"),
     path('stats/', stats, name="stats"),
     path('compte/', compte, name="compte"),
     path('admin/', admin.site.urls),
