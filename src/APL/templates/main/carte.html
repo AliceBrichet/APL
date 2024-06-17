@@ -96,6 +96,9 @@
 {% endblock %}
 
 {% block script %}
+<script>
+    var apl = JSON.parse('{{ apl|escapejs }}');
+</script>
 <script src="{% static 'script/carte.js' %}"></script>
 
 {% endblock %}

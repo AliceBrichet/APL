@@ -2,6 +2,7 @@ from carte.models.professionnelDeSante import ProfessionnelDeSante
 from carte.models.professionnelDeSante import Profession
 from carte.models.localisation import Commune
 from carte.models.localisation import PonDist
+from django.db.models import Q
 
 pondist_fact = [ 
     (10, 1),
@@ -30,28 +31,32 @@ def get_pondist_factor(temps_trajet):
     return 0
 
 
-def calculAPL(commune, codes):
-    voisins = PonDist.objects.filter(communeC=commune).values_list('commune2', flat=True)
-    communes_consideres = voisins + commune
+def calculAPL(commune, codeProfessions):
+    voisins = PonDist.objects.filter(communeC=commune).values_list('communeV', flat=True)
+    communes_consideres = list(voisins)
+    communes_consideres.append(commune.idCommune)
 
-    professionnels = ProfessionnelDeSante.objects.filter(commune=communes_consideres, profession=codeProfession)
+    professionnels = list(ProfessionnelDeSante.objects.filter(
+        Q(commune__in=communes_consideres) &
+        Q(profession__in=codeProfessions)
+    ))
 
     sum_pj_wdij = 0
     for professionnel in professionnels:
         etp = get_etp_from_charge(professionnel.charge)
         
-        if professionnel.commune == commune:
+        if professionnel.commune.idCommune == commune.idCommune:
             w_dij = 1
         else:
             distance = PonDist.objects.filter(communeC=commune, communeV=professionnel.commune).first()
             if distance:
-                w_dij = get_pondist_factor(distance.temps)
+                w_dij = get_pondist_factor(float(distance.temps))
             else:
                 w_dij = 0
             
         sum_pj_wdij += etp * w_dij
 
-    demande_soins = commune.demandeSoin
+    demande_soins = float(commune.demandeSoin)
 
     apl = sum_pj_wdij / demande_soins
     
@@ -65,7 +70,7 @@ def createData(option):
         codeProfession.append(profession.codeProfession)
 
     communes = Commune.objects.all()
-    data = []
+    data = {}
     for c in communes :
         APL = calculAPL(c, codeProfession)
         data[c.libCommune] = [c.latitude, c.longitude, APL]
