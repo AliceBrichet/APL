@@ -16,34 +16,34 @@
     <div class="card-body">
         <h3 class="card-title">Filtres de travail</h3>
         <p class="card-text text-muted">Ces filtres permettent de travailler sur la carte pour visualiser les APL en fonction des critères suivants : </p>
-        <ul class="nav">
+        <ul class="nav justify-content-around">
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Age
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Age
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                        {% for key, value in listAge.items %}
+                            <a class="dropdown-item age-item" href="#" data-value="{{ value }}"> {{ key }} </a>
+                        {% endfor %}
                     </div>
                 </div>
             </li>
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Profession
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="{% url 'carte' option="Médecin généraliste" %}">Médecin généraliste</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                        {% for item in listProfession %}
+                            <a class="dropdown-item profession-item" href="#" data-value="{{ item }}"> {{ item }} </a>
+                        {% endfor %}
                     </div>
                 </div>
             </li>
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Infrastructure
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -55,19 +55,19 @@
             </li>
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Spécialité
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                    <a class="dropdown-item" href="#">Action</a>
-                    <a class="dropdown-item" href="#">Another action</a>
-                    <a class="dropdown-item" href="#">Something else here</a>
+                        {% for item in listSpecialite %}
+                            <a class="dropdown-item specialite-item" href="#" data-value="{{ item }}"> {{ item }} </a>
+                        {% endfor %}
                     </div>
                 </div>
             </li>
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Année
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -79,7 +79,7 @@
             </li>
             <li class="nav-item m-2">
                 <div class="dropdown">
-                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                         Equipement
                     </button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
@@ -98,6 +98,69 @@
 {% block script %}
 <script>
     var apl = JSON.parse('{{ apl|escapejs }}');
+
+    document.addEventListener('DOMContentLoaded', function() {
+        let currentUrl = new URL(window.location.href);
+        let pathSegments = currentUrl.pathname.split('/').filter(Boolean);
+        let currentProfession = pathSegments.length > 1 ? pathSegments[1] : '';
+        let currentAge = pathSegments.length > 2 ? pathSegments[2] : '';
+        let currentSpecialite = pathSegments.length > 3 ? pathSegments[3] : '';
+
+        // Function to build the URL
+        function buildUrl(profession, age, specialite) {
+            let url = `/carte/${profession}/${age}/`;
+            if (specialite) {
+                url += `${specialite}/`;
+            }
+            return url;
+        }
+
+        // Function to update the links in the dropdowns
+        function updateLinks() {
+            document.querySelectorAll('.age-item').forEach(item => {
+                item.href = buildUrl(currentProfession, item.dataset.value, currentSpecialite);
+            });
+            document.querySelectorAll('.profession-item').forEach(item => {
+                item.href = buildUrl(item.dataset.value, currentAge, currentSpecialite);
+            });
+            document.querySelectorAll('.specialite-item').forEach(item => {
+                item.href = buildUrl(currentProfession, currentAge, item.dataset.value);
+            });
+        }
+
+        // Initial update of the links
+        updateLinks();
+
+        // Event listeners for age dropdown
+        document.querySelectorAll('.age-item').forEach(item => {
+            item.addEventListener('click', function(event) {
+                event.preventDefault();
+                currentAge = this.dataset.value;
+                updateLinks();
+                window.location.href = this.href;
+            });
+        });
+
+        // Event listeners for profession dropdown
+        document.querySelectorAll('.profession-item').forEach(item => {
+            item.addEventListener('click', function(event) {
+                event.preventDefault();
+                currentProfession = this.dataset.value;
+                updateLinks();
+                window.location.href = this.href;
+            });
+        });
+
+        // Event listeners for specialite dropdown
+        document.querySelectorAll('.specialite-item').forEach(item => {
+            item.addEventListener('click', function(event) {
+                event.preventDefault();
+                currentSpecialite = this.dataset.value;
+                updateLinks();
+                window.location.href = this.href;
+            });
+        });
+    });
 </script>
 <script src="{% static 'script/carte.js' %}"></script>
 

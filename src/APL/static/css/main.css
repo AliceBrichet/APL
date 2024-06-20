@@ -126,4 +126,9 @@
   height: 80vh;
 }
 
+.dropdown-menu {
+  max-height: 200px; /* Ajuste cette hauteur selon tes besoins */
+  overflow-y: auto;
+}
+
 /*# sourceMappingURL=main.css.map */
